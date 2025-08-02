@@ -110,9 +110,13 @@ jobs:
         today_matches = scrape_matches_for_date(0, 'BUGÜN')
         all_matches.extend(today_matches)
         
-        # +2 gün sonrasının maçlarını çek
-        future_matches = scrape_matches_for_date(2, '+2 GÜN')
-        all_matches.extend(future_matches)
+        # Yarının maçlarını çek
+        tomorrow_matches = scrape_matches_for_date(1, 'YARIN')
+        all_matches.extend(tomorrow_matches)
+        
+        # Yarından sonraki günün maçlarını çek
+        day_after_matches = scrape_matches_for_date(2, 'YARIN+1')
+        all_matches.extend(day_after_matches)
         
         print(f'🎯 TOPLAM: {len(all_matches)} maç bulundu')
         
@@ -144,8 +148,9 @@ jobs:
           else
             MATCH_COUNT=$(tail -n +2 mac_kanal_listesi.csv | wc -l)
             TODAY_DATE=$(date '+%Y-%m-%d')
-            FUTURE_DATE=$(date -d '+2 days' '+%Y-%m-%d')
-            git commit -m "🤖 Otomatik veri güncelleme - $(date '+%Y-%m-%d %H:%M') [$MATCH_COUNT maç] (${TODAY_DATE} + ${FUTURE_DATE})"
+            TOMORROW_DATE=$(date -d '+1 day' '+%Y-%m-%d')
+            DAY_AFTER_DATE=$(date -d '+2 days' '+%Y-%m-%d')
+            git commit -m "🤖 Otomatik veri güncelleme - $(date '+%Y-%m-%d %H:%M') [$MATCH_COUNT maç] (${TODAY_DATE} + ${TOMORROW_DATE} + ${DAY_AFTER_DATE})"
             git push
             echo "🚀 Değişiklikler GitHub'a yüklendi!"
           fi
