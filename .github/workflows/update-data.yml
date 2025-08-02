@@ -33,85 +33,102 @@ jobs:
         import csv
         from datetime import datetime, timedelta
         
-        def get_future_date_url(days_ahead=2):
+        def get_date_url(days_ahead=0):
             hedef_tarih = datetime.today() + timedelta(days=days_ahead)
             tarih_str = hedef_tarih.strftime('%Y-%m-%d')
             url = f'https://www.sporekrani.com/home/day/{tarih_str}'
             return url, tarih_str
         
+        def scrape_matches_for_date(days_ahead, date_label):
+            try:
+                url, tarih_str = get_date_url(days_ahead=days_ahead)
+                print(f'🌐 {date_label} URL: {url}')
+                
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                }
+                
+                response = requests.get(url, headers=headers, timeout=30)
+                response.raise_for_status()
+                print(f'✅ {date_label} HTTP Status: {response.status_code}')
+                
+                soup = BeautifulSoup(response.content, 'html.parser')
+                matches = []
+                
+                items = soup.find_all('div', class_='event-item')
+                print(f'🔍 {date_label} bulunan öğe sayısı: {len(items)}')
+                
+                for i, item in enumerate(items):
+                    try:
+                        sport_icon = item.find('img', alt=True)
+                        sport_alt = sport_icon['alt'].capitalize() if sport_icon else ''
+                        
+                        if sport_alt not in ['Futbol', 'Basketbol']:
+                            continue
+                            
+                        time_elem = item.find('span', class_='text-body3-medium')
+                        time_str = time_elem.get_text(strip=True) if time_elem else ''
+                        
+                        match_name_elem = item.find('p', class_='q-mb-xs text-body3-bold')
+                        match_name = match_name_elem.get_text(strip=True) if match_name_elem else ''
+                        
+                        tournament_elem = item.find('p', class_='q-mb-none text-body3-medium text-grey-6')
+                        tournament = tournament_elem.get_text(strip=True) if tournament_elem else ''
+                        
+                        channel_div = item.find('div', class_='channel-mobile')
+                        if channel_div:
+                            channel_img = channel_div.find('img')
+                            channel = channel_img['title'] if channel_img else 'Bilinmiyor'
+                        else:
+                            channel = 'Bilinmiyor'
+                        
+                        if match_name:
+                            matches.append({
+                                'spor': sport_alt,
+                                'saat': time_str,
+                                'maç': match_name,
+                                'turnuva': tournament,
+                                'kanal': channel,
+                                'tarih': tarih_str
+                            })
+                            
+                    except Exception as e:
+                        continue
+                
+                print(f'⚽ {date_label}: {len(matches)} maç bulundu')
+                return matches
+                
+            except Exception as e:
+                print(f'❌ {date_label} Hata: {e}')
+                return []
+        
         print(f'🕐 Veri güncelleme başladı: {datetime.now()}')
         
-        try:
-            url, tarih_str = get_future_date_url(days_ahead=2)
-            print(f'🌐 URL: {url}')
+        all_matches = []
+        
+        # Bugünün maçlarını çek
+        today_matches = scrape_matches_for_date(0, 'BUGÜN')
+        all_matches.extend(today_matches)
+        
+        # +2 gün sonrasının maçlarını çek
+        future_matches = scrape_matches_for_date(2, '+2 GÜN')
+        all_matches.extend(future_matches)
+        
+        print(f'🎯 TOPLAM: {len(all_matches)} maç bulundu')
+        
+        # CSV dosyasını yaz
+        with open('mac_kanal_listesi.csv', 'w', newline='', encoding='utf-8') as csvfile:
+            fieldnames = ['spor', 'tarih', 'saat', 'maç', 'turnuva', 'kanal']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
             
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
+            # Tarihe göre sırala
+            all_matches.sort(key=lambda x: (x['tarih'], x['saat']))
             
-            response = requests.get(url, headers=headers, timeout=30)
-            response.raise_for_status()
-            print(f'✅ HTTP Status: {response.status_code}')
-            
-            soup = BeautifulSoup(response.content, 'html.parser')
-            matches = []
-            
-            items = soup.find_all('div', class_='event-item')
-            print(f'🔍 Bulunan öğe sayısı: {len(items)}')
-            
-            for i, item in enumerate(items):
-                try:
-                    sport_icon = item.find('img', alt=True)
-                    sport_alt = sport_icon['alt'].capitalize() if sport_icon else ''
-                    
-                    if sport_alt not in ['Futbol', 'Basketbol']:
-                        continue
-                        
-                    time_elem = item.find('span', class_='text-body3-medium')
-                    time_str = time_elem.get_text(strip=True) if time_elem else ''
-                    
-                    match_name_elem = item.find('p', class_='q-mb-xs text-body3-bold')
-                    match_name = match_name_elem.get_text(strip=True) if match_name_elem else ''
-                    
-                    tournament_elem = item.find('p', class_='q-mb-none text-body3-medium text-grey-6')
-                    tournament = tournament_elem.get_text(strip=True) if tournament_elem else ''
-                    
-                    channel_div = item.find('div', class_='channel-mobile')
-                    if channel_div:
-                        channel_img = channel_div.find('img')
-                        channel = channel_img['title'] if channel_img else 'Bilinmiyor'
-                    else:
-                        channel = 'Bilinmiyor'
-                    
-                    if match_name:
-                        matches.append({
-                            'spor': sport_alt,
-                            'saat': time_str,
-                            'maç': match_name,
-                            'turnuva': tournament,
-                            'kanal': channel,
-                            'tarih': tarih_str
-                        })
-                        
-                except Exception as e:
-                    continue
-            
-            print(f'⚽ Toplam {len(matches)} maç bulundu')
-            
-            # CSV dosyasını yaz
-            with open('mac_kanal_listesi.csv', 'w', newline='', encoding='utf-8') as csvfile:
-                fieldnames = ['spor', 'tarih', 'saat', 'maç', 'turnuva', 'kanal']
-                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                writer.writeheader()
-                for m in matches:
-                    writer.writerow(m)
-            
-            print('📝 CSV dosyası başarıyla oluşturuldu!')
-            
-        except Exception as e:
-            print(f'❌ Hata: {e}')
-            import traceback
-            traceback.print_exc()
+            for m in all_matches:
+                writer.writerow(m)
+        
+        print('📝 CSV dosyası başarıyla oluşturuldu!')
         "
     
     - name: Commit and push changes
@@ -126,7 +143,9 @@ jobs:
             echo "📝 Dosyada değişiklik yok"
           else
             MATCH_COUNT=$(tail -n +2 mac_kanal_listesi.csv | wc -l)
-            git commit -m "🤖 Otomatik veri güncelleme - $(date '+%Y-%m-%d %H:%M') [$MATCH_COUNT maç]"
+            TODAY_DATE=$(date '+%Y-%m-%d')
+            FUTURE_DATE=$(date -d '+2 days' '+%Y-%m-%d')
+            git commit -m "🤖 Otomatik veri güncelleme - $(date '+%Y-%m-%d %H:%M') [$MATCH_COUNT maç] (${TODAY_DATE} + ${FUTURE_DATE})"
             git push
             echo "🚀 Değişiklikler GitHub'a yüklendi!"
           fi
