@@ -33,7 +33,7 @@ jobs:
         import csv
         from datetime import datetime, timedelta
         
-        def get_future_date_url(days_ahead=3):
+        def get_future_date_url(days_ahead=2):
             hedef_tarih = datetime.today() + timedelta(days=days_ahead)
             tarih_str = hedef_tarih.strftime('%Y-%m-%d')
             url = f'https://www.sporekrani.com/home/day/{tarih_str}'
@@ -42,7 +42,7 @@ jobs:
         print(f'🕐 Veri güncelleme başladı: {datetime.now()}')
         
         try:
-            url, tarih_str = get_future_date_url(days_ahead=3)
+            url, tarih_str = get_future_date_url(days_ahead=2)
             print(f'🌐 URL: {url}')
             
             headers = {
