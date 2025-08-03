@@ -21,7 +21,7 @@ jobs:
           pip install requests beautifulsoup4 pytz
 
       - name: Scraping Scriptini Çalıştır
-        run: python update_.py
+        run: python update.py
 
       - name: Değişiklikleri Commit & Push Et
         run: |
