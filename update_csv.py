@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import csv
+import json
 from datetime import datetime, timedelta
 from pytz import timezone
 
@@ -56,7 +56,7 @@ def scrape_matches_for_date(days_ahead, date_label):
     except Exception:
         return []
 
-def update_csv_data():
+def update_json_data():
     all_matches = []
     today_matches = scrape_matches_for_date(0, "BUGÜN")
     all_matches.extend(today_matches)
@@ -65,16 +65,12 @@ def update_csv_data():
     day_after_matches = scrape_matches_for_date(2, "YARIN+1")
     all_matches.extend(day_after_matches)
     try:
-        with open("mac_kanal_listesi.csv", "w", newline="", encoding="utf-8") as csvfile:
-            fieldnames = ["spor", "tarih", "saat", "maç", "turnuva", "kanal"]
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            writer.writeheader()
-            all_matches.sort(key=lambda x: (x['tarih'], x['saat']))
-            for m in all_matches:
-                writer.writerow(m)
-        print(f"CSV dosyası güncellendi. {len(all_matches)} maç bulundu.")
+        all_matches.sort(key=lambda x: (x['tarih'], x['saat']))
+        with open("mac_kanal_listesi.json", "w", encoding="utf-8") as jsonfile:
+            json.dump(all_matches, jsonfile, ensure_ascii=False, indent=2)
+        print(f"JSON dosyası güncellendi. {len(all_matches)} maç kaydedildi.")
     except Exception as e:
         print(f"Veri güncelleme hatası: {e}")
 
 if __name__ == "__main__":
-    update_csv_data()
+    update_json_data()
