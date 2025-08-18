@@ -1,133 +1,5 @@
 [
   {
-    "spor": "Futbol",
-    "saat": "00:30",
-    "maç": "River Plate - Godoy Cruz",
-    "turnuva": "Arjantin Primera Division",
-    "kanal": "Spor Smart",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "00:30",
-    "maç": "Internacional - Flamengo",
-    "turnuva": "Brezilya Serie A",
-    "kanal": "Smart Spor 2",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "02:00",
-    "maç": "SJ Earthquakes - San Diego",
-    "turnuva": "MLS",
-    "kanal": "TRT Spor",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "02:30",
-    "maç": "Independiente Rivadavia - Boca Juniors",
-    "turnuva": "Arjantin Primera Division",
-    "kanal": "Spor Smart",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "02:30",
-    "maç": "Botafogo RJ - Palmeiras",
-    "turnuva": "Brezilya Serie A",
-    "kanal": "Smart Spor 2",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "03:30",
-    "maç": "Golden State Valkyries - Atlanta Dream",
-    "turnuva": "WNBA",
-    "kanal": "NBA TV",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Zira - Araz",
-    "turnuva": "Azerbaycan Premier Ligi",
-    "kanal": "CBC Sport",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Dynamo Dresden - Mainz",
-    "turnuva": "Almanya Kupasi DFB Pokal",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Sporting Gijon - Cordoba",
-    "turnuva": "İspanya La Liga 2",
-    "kanal": "S Sport",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:30",
-    "maç": "Kasımpaşa - Trabzonspor",
-    "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:30",
-    "maç": "Amedspor - Erzurumspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Le Mans - Montpellier",
-    "turnuva": "Fransa Ligue 2",
-    "kanal": "Bein Sports 4",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Essen - B.Dortmund",
-    "turnuva": "Almanya Kupasi DFB Pokal",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Leeds United - Everton",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Elche - Real Betis",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2025-08-18"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:15",
-    "maç": "Gil Vicente - Porto",
-    "turnuva": "Portekiz Liga NOS",
-    "kanal": "Tivibu Spor 1",
-    "tarih": "2025-08-18"
-  },
-  {
     "spor": "Basketbol",
     "saat": "13:00",
     "maç": "İtalya - Belçika",
@@ -162,7 +34,7 @@
   {
     "spor": "Basketbol",
     "saat": "18:00",
-    "maç": "Almanya - Romanya",
+    "maç": "Slovenya - Finlandiya",
     "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi",
     "kanal": "FIBA TV",
     "tarih": "2025-08-19"
@@ -170,7 +42,23 @@
   {
     "spor": "Basketbol",
     "saat": "18:00",
-    "maç": "Slovenya - Finlandiya",
+    "maç": "Almanya - Romanya",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-19"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Zira - Araz",
+    "turnuva": "Azerbaycan Premier Ligi",
+    "kanal": "CBC Sport",
+    "tarih": "2025-08-19"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:30",
+    "maç": "Sırbistan - İsrail",
     "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi",
     "kanal": "FIBA TV",
     "tarih": "2025-08-19"
@@ -184,19 +72,19 @@
     "tarih": "2025-08-19"
   },
   {
-    "spor": "Basketbol",
-    "saat": "20:30",
-    "maç": "Sırbistan - İsrail",
-    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi",
-    "kanal": "FIBA TV",
-    "tarih": "2025-08-19"
-  },
-  {
     "spor": "Futbol",
     "saat": "22:00",
     "maç": "Real Madrid - Osasuna",
     "turnuva": "İspanya La Liga",
     "kanal": "S Sport",
+    "tarih": "2025-08-19"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Glasgow Rangers - Club Brugge",
+    "turnuva": "UEFA Şampiyonlar Ligi Ön Eleme",
+    "kanal": "TRT 1",
     "tarih": "2025-08-19"
   },
   {
@@ -218,17 +106,17 @@
   {
     "spor": "Futbol",
     "saat": "03:30",
-    "maç": "Racing Club - Penarol",
-    "turnuva": "Copa Libertadores",
-    "kanal": "S Sport",
+    "maç": "Fluminense - America Cali",
+    "turnuva": "Copa Sudamericana",
+    "kanal": "S Sport 2",
     "tarih": "2025-08-20"
   },
   {
     "spor": "Futbol",
     "saat": "03:30",
-    "maç": "Fluminense - America Cali",
-    "turnuva": "Copa Sudamericana",
-    "kanal": "S Sport 2",
+    "maç": "Racing Club - Penarol",
+    "turnuva": "Copa Libertadores",
+    "kanal": "S Sport",
     "tarih": "2025-08-20"
   },
   {
@@ -258,14 +146,6 @@
   {
     "spor": "Basketbol",
     "saat": "15:30",
-    "maç": "Danimarka - Norveç",
-    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
-    "kanal": "FIBA TV",
-    "tarih": "2025-08-20"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:30",
     "maç": "Portekiz - Bosna Hersek",
     "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
     "kanal": "FIBA TV",
@@ -273,8 +153,8 @@
   },
   {
     "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Yunanistan - Kuzey Makedonya",
+    "saat": "15:30",
+    "maç": "Danimarka - Norveç",
     "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
     "kanal": "FIBA TV",
     "tarih": "2025-08-20"
@@ -283,6 +163,14 @@
     "spor": "Basketbol",
     "saat": "18:00",
     "maç": "Türkiye - İsviçre",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-20"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "Yunanistan - Kuzey Makedonya",
     "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
     "kanal": "FIBA TV",
     "tarih": "2025-08-20"
@@ -300,15 +188,15 @@
     "saat": "19:30",
     "maç": "Litvanya - Türkiye",
     "turnuva": "Basketbol Hazirlik Maçi",
-    "kanal": "Yayın Yok",
+    "kanal": "TRT Spor",
     "tarih": "2025-08-20"
   },
   {
     "spor": "Basketbol",
     "saat": "20:00",
-    "maç": "Letonya - Yunanistan",
-    "turnuva": "Acropolis Turnuvasi",
-    "kanal": "S Sport",
+    "maç": "Danimarka - Hırvatistan",
+    "turnuva": "FIBA Dünya Kupasi Elemeleri",
+    "kanal": "FIBA TV",
     "tarih": "2025-08-20"
   },
   {
@@ -322,17 +210,9 @@
   {
     "spor": "Basketbol",
     "saat": "20:00",
-    "maç": "Danimarka - Hırvatistan",
-    "turnuva": "FIBA Dünya Kupasi Elemeleri",
-    "kanal": "FIBA TV",
-    "tarih": "2025-08-20"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:30",
-    "maç": "Ukrayna - Bulgaristan",
-    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
-    "kanal": "FIBA TV",
+    "maç": "Letonya - Yunanistan",
+    "turnuva": "Acropolis Turnuvasi",
+    "kanal": "S Sport",
     "tarih": "2025-08-20"
   },
   {
@@ -352,11 +232,123 @@
     "tarih": "2025-08-20"
   },
   {
+    "spor": "Basketbol",
+    "saat": "20:30",
+    "maç": "Ukrayna - Bulgaristan",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-20"
+  },
+  {
     "spor": "Futbol",
     "saat": "22:00",
     "maç": "Fenerbahçe - Benfica",
     "turnuva": "UEFA Şampiyonlar Ligi Ön Eleme",
     "kanal": "TRT 1",
     "tarih": "2025-08-20"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "01:00",
+    "maç": "Estudiantes - Cerro Porteno",
+    "turnuva": "Copa Libertadores",
+    "kanal": "S Sport",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "03:30",
+    "maç": "Internacional - Flamengo",
+    "turnuva": "Copa Libertadores",
+    "kanal": "S Sport",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "05:00",
+    "maç": "Orange County - San Antonio",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "15:30",
+    "maç": "Slovakya - Lüksemburg",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "15:30",
+    "maç": "Avusturya - İrlanda",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "İzlanda - Türkiye",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "Bulgaristan - Yunanistan",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Rams Başakşehir - Uni. Craiova",
+    "turnuva": "UEFA Avrupa Konferans Ligi Ön Eleme",
+    "kanal": "TRT 1",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "FC Lausanne - Beşiktaş",
+    "turnuva": "UEFA Avrupa Konferans Ligi Ön Eleme",
+    "kanal": "Yayın Yok",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Panathinaikos - Samsunspor",
+    "turnuva": "UEFA Avrupa Ligi Ön Eleme",
+    "kanal": "HT Spor",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "İtalya - Letonya",
+    "turnuva": "Acropolis Turnuvasi",
+    "kanal": "S Sport",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:30",
+    "maç": "Litvanya - Ukrayna",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-21"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:30",
+    "maç": "Hollanda - İsveç",
+    "turnuva": "FiBA U16 Kizlar Avrupa Şampiyonasi B",
+    "kanal": "FIBA TV",
+    "tarih": "2025-08-21"
   }
 ]
