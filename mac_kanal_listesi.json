@@ -1,181 +1,5 @@
 [
   {
-    "spor": "Futbol",
-    "saat": "02:00",
-    "maç": "Brooklyn - Spokane Zephyr",
-    "turnuva": "ABD USL Kadinlar Championship",
-    "kanal": "W-Sport",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "02:30",
-    "maç": "Hartford Athletic - Indy Eleven",
-    "turnuva": "ABD USL Championship",
-    "kanal": "USL Championship Youtube",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:00",
-    "maç": "Kahramanmaraş - Osmaniyespor",
-    "turnuva": "Ziraat Türkiye Kupasi ZTK",
-    "kanal": "A Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:00",
-    "maç": "Fransa - İzlanda",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
-    "kanal": "TRT Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:00",
-    "maç": "Bosna Hersek - Gürcistan",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
-    "kanal": "TRT Spor Yildiz",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Isparta 32 Spor - Kırşehirspor",
-    "turnuva": "Ziraat Türkiye Kupasi ZTK",
-    "kanal": "A Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
-    "maç": "Kazakistan - Galler",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Zenit Basket - Beşiktaş GAİN",
-    "turnuva": "Basketbol Hazirlik Maçi",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Fenerbahçe Beko - Galatasaray MCT Technic",
-    "turnuva": "TÜBAD Basketbol Turnuvasi",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "İsrail - Slovenya",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
-    "kanal": "tabii Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:15",
-    "maç": "İtalya - Güney Kıbrıs",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
-    "kanal": "tabii Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Litvanya - Malta",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Gürcistan - Türkiye",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "TV8",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:15",
-    "maç": "Türk Telekom - Lokomotiv Kuban",
-    "turnuva": "Basketbol Hazirlik Maçi",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Bursaspor - Söğütspor",
-    "turnuva": "Ziraat Türkiye Kupasi ZTK",
-    "kanal": "A Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:30",
-    "maç": "İspanya - Yunanistan",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
-    "kanal": "TRT Spor Yildiz",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:30",
-    "maç": "Polonya - Belçika",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
-    "kanal": "tabii Spor",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Hollanda - Polonya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Slovakya - Almanya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Lüksemburg - Kuzey İrlanda",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Lihtenştayn - Belçika",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-09-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Bulgaristan - İspanya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-04"
-  },
-  {
     "spor": "Basketbol",
     "saat": "02:30",
     "maç": "Washington Mystics - Phoenix Mercury",
@@ -193,6 +17,54 @@
   },
   {
     "spor": "Basketbol",
+    "saat": "11:30",
+    "maç": "İsviçre - İtalya",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "TRT Spor Yildiz",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "11:55",
+    "maç": "Almanya - Polonya",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "TRT Spor Yildiz",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "12:30",
+    "maç": "Letonya - İrlanda",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "TRT Spor Yildiz",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "12:55",
+    "maç": "Fransa - Azerbaycan",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "TRT Spor Yildiz",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "Sırbistan - İtalya",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:25",
+    "maç": "Fransa - Ukrayna",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
     "saat": "17:00",
     "maç": "Merkezefendi Bld. - Esenler Erokspor",
     "turnuva": "Basketbol Hazirlik Maçi",
@@ -201,10 +73,58 @@
   },
   {
     "spor": "Basketbol",
+    "saat": "17:20",
+    "maç": "Almanya - Danimarka",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:45",
+    "maç": "Hollanda - İrlanda",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Sırbistan - İsviçre",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
     "saat": "19:15",
     "maç": "Trabzonspor - Türk Telekom",
     "turnuva": "Basketbol Hazirlik Maçi",
     "kanal": "Yayın Yok",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:25",
+    "maç": "Ukrayna - Azerbaycan",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Hollanda - Letonya",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:25",
+    "maç": "Polonya - Danimarka",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
     "tarih": "2025-09-05"
   },
   {
@@ -218,17 +138,41 @@
   {
     "spor": "Futbol",
     "saat": "21:45",
-    "maç": "Slovenya - İsveç",
+    "maç": "İsviçre - Kosova",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
     "tarih": "2025-09-05"
   },
   {
     "spor": "Futbol",
     "saat": "21:45",
-    "maç": "Moldova - İsrail",
+    "maç": "Danimarka - İskoçya",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Faroe Adaları - Hırvatistan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "İtalya - Estonya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-05"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "İzlanda - Azerbaycan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "CBC Sport",
     "tarih": "2025-09-05"
   },
   {
@@ -242,41 +186,17 @@
   {
     "spor": "Futbol",
     "saat": "21:45",
-    "maç": "İzlanda - Azerbaycan",
+    "maç": "Moldova - İsrail",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "S Sport Plus",
+    "kanal": "Exxen",
     "tarih": "2025-09-05"
   },
   {
     "spor": "Futbol",
     "saat": "21:45",
-    "maç": "İtalya - Estonya",
+    "maç": "Slovenya - İsveç",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-05"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "İsviçre - Kosova",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-05"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Faroe Adaları - Hırvatistan",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-05"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Danimarka - İskoçya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
     "tarih": "2025-09-05"
   },
   {
@@ -284,7 +204,7 @@
     "saat": "21:45",
     "maç": "Ukrayna - Fransa",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
     "tarih": "2025-09-05"
   },
   {
@@ -292,7 +212,7 @@
     "saat": "21:45",
     "maç": "Yunanistan - Belarus",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
     "tarih": "2025-09-05"
   },
   {
@@ -312,11 +232,51 @@
     "tarih": "2025-09-06"
   },
   {
+    "spor": "Basketbol",
+    "saat": "12:00",
+    "maç": "Türkiye - İsveç",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:00",
+    "maç": "Hollanda - Litvanya",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:25",
+    "maç": "Fransa - Macaristan",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:00",
+    "maç": "Macaristan - Büyük Britanya",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
     "spor": "Futbol",
     "saat": "14:00",
     "maç": "Vincenzo Montella",
     "turnuva": "Basin Toplantisi",
     "kanal": "A Spor",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:25",
+    "maç": "Litvanya - Avusturya",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
     "tarih": "2025-09-06"
   },
   {
@@ -329,6 +289,14 @@
   },
   {
     "spor": "Basketbol",
+    "saat": "15:15",
+    "maç": "Almanya - Portekiz",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
     "saat": "15:45",
     "maç": "Trabzonspor - Lokomotiv Kuban",
     "turnuva": "Basketbol Hazirlik Maçi",
@@ -336,11 +304,43 @@
     "tarih": "2025-09-06"
   },
   {
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "Hollanda - Avusturya",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
     "spor": "Futbol",
     "saat": "16:00",
     "maç": "Letonya - Sırbistan",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "CBC Sport",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:25",
+    "maç": "Almanya - Macaristan",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:00",
+    "maç": "İspanya - Büyük Britanya",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:25",
+    "maç": "Litvanya - Danimarka",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
     "tarih": "2025-09-06"
   },
   {
@@ -352,11 +352,27 @@
     "tarih": "2025-09-06"
   },
   {
+    "spor": "Basketbol",
+    "saat": "18:30",
+    "maç": "Litvanya - Letonya",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-06"
+  },
+  {
     "spor": "Futbol",
     "saat": "19:00",
     "maç": "İngiltere - Andorra",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "CBC Sport",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Avusturya - Litvanya",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
     "tarih": "2025-09-06"
   },
   {
@@ -364,7 +380,15 @@
     "saat": "19:00",
     "maç": "Ermenistan - Portekiz",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:25",
+    "maç": "Fransa - Almanya",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
     "tarih": "2025-09-06"
   },
   {
@@ -376,6 +400,22 @@
     "tarih": "2025-09-06"
   },
   {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "İspanya - Macaristan",
+    "turnuva": "FiBA 3x3 Kadinlar Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:25",
+    "maç": "Avusturya - Danimarka",
+    "turnuva": "FiBA 3x3 Avrupa Kupasi",
+    "kanal": "FIBA3x3 TV",
+    "tarih": "2025-09-06"
+  },
+  {
     "spor": "Futbol",
     "saat": "20:30",
     "maç": "Milli Takım",
@@ -384,11 +424,11 @@
     "tarih": "2025-09-06"
   },
   {
-    "spor": "Futbol",
+    "spor": "Basketbol",
     "saat": "21:45",
-    "maç": "San Marino - Bosna Hersek",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "maç": "Sırbistan - Finlandiya",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket",
+    "kanal": "TRT Spor",
     "tarih": "2025-09-06"
   },
   {
@@ -396,7 +436,7 @@
     "saat": "21:45",
     "maç": "İrlanda - Macaristan",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "S Sport Plus",
+    "kanal": "CBC Sport",
     "tarih": "2025-09-06"
   },
   {
@@ -404,7 +444,575 @@
     "saat": "21:45",
     "maç": "Avusturya - Güney Kıbrıs",
     "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Yayın Yok",
+    "kanal": "Exxen",
     "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "San Marino - Bosna Hersek",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:00",
+    "maç": "Detroit - Orange County",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:00",
+    "maç": "Rhode Island - Louisville City",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:30",
+    "maç": "Charleston - Indy Eleven",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:30",
+    "maç": "Miami FC - Hartford Athletic",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:30",
+    "maç": "Tampa Bay Rowdies - Sacramento Republic",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "03:30",
+    "maç": "FC Tulsa - Birmingham Legion",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "03:30",
+    "maç": "San Antonio - New Mexico",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "04:00",
+    "maç": "Colorado Springs - Monterrey Bay",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "04:00",
+    "maç": "El Paso Locomotive - Loudoun United",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:00",
+    "maç": "Tofaş - Beşiktaş GAİN",
+    "turnuva": "Basketbol Hazirlik Maçi",
+    "kanal": "Yayın Yok",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Etimesgut Bld. - Silivrispor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Polatlı Bld. - Bursa Nilüfer",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Mazıdağı Fosfat - Osmaniyespor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Kırşehirspor - Silifke Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "12 Bingölspor - Karaköprü Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Kapadokya Spor - Yeşilyurt Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Diyarbekirspor - Niğde Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Kırıkkalespor - Ağrı 1970",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Kahramanmaraş - Kilis Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Fatsa Bld. - Bulancakspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Artvin Hopa - Orduspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Düzcespor - Bozokspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Kdz Ereğli Bld. - Sebat Gençlik",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Pazarspor - Çayelispor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Tokat Bld. - Zonguldakspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:30",
+    "maç": "Y.Malatyaspor - Gebzespor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:30",
+    "maç": "Muşspor - Ankara Demir",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:30",
+    "maç": "1461 Trabzon - Kahramanmaraş İstiklal",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Gürcistan - Bulgaristan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Adanaspor - Menemenspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Kastamonuspor - Bucaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:15",
+    "maç": "Merkezefendi Bld. - Türk Telekom",
+    "turnuva": "Basketbol Hazirlik Maçi",
+    "kanal": "Yayın Yok",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Somaspor - Mardin 1969",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Arnavutköy Bld. - Aksaray Bld.",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Beyoğlu Yeni Çarşı - Adana 01 FK",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Altınordu - 24 Erzincanspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Galata Spor - Edirnespor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Yıldırımspor - Kestel Çilek Spor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "İnkılap FK - Küçükçekmece Sinop",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "İnegöl Kafkas - Çankaya FK",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Beykoz İshaklı Spor - Yalova",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Çorluspor 1947 - Bulvarspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Denizli İdmanyurdu Güreller - İzmir Çoruhlu FK",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Ayvalıkgücü Bld. - Nazilli Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Sökespor - Balıkesirspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Uşakspor - Altay",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Kuzey Makedonya - Lihtenştayn",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Litvanya - Hollanda",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Isparta 32 Spor - Kırklarelispor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Mersin İY - Bursaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Karaman FK - İnegölspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Karacabey Bld. - Erbaaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Batman Petrol - İskenderunspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Şanlıurfaspor - Kepez Bld.",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Erciyes 38 FK - Türk Metal 1963",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Giresunspor - Y.Amasyaspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "52 Orduspor - Karabük İY",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Bornova 1877 - Alanya 1221",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Eskişehirspor - Eskişehir Anadolu Spor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Karşıyaka - Afyonspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Tire 2021 - Kütahyaspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:30",
+    "maç": "Almeria - Racing Santander",
+    "turnuva": "İspanya La Liga 2",
+    "kanal": "S Sport",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Muğlaspor - Beykoz Anadolu",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Almanya - Kuzey İrlanda",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Belçika - Kazakistan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Lüksemburg - Slovakya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Polonya - Finlandiya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Türkiye - İspanya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "TV8",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Washington Mystics - Indiana Fever",
+    "turnuva": "WNBA",
+    "kanal": "NBA TV",
+    "tarih": "2025-09-07"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Oakland Roots - Pittsburgh RH",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-07"
   }
 ]
