@@ -1,99 +1,19 @@
 [
   {
     "spor": "Basketbol",
-    "saat": "01:00",
-    "maç": "LA Sparks - Dallas Wings",
-    "turnuva": "WNBA",
-    "kanal": "NBA TV",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "02:00",
-    "maç": "Kansas City - Austin FC",
-    "turnuva": "MLS",
+    "saat": "19:00",
+    "maç": "Litvanya - Yunanistan",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
     "kanal": "TRT Spor",
-    "tarih": "2025-09-08"
+    "tarih": "2025-09-09"
   },
   {
     "spor": "Basketbol",
-    "saat": "04:00",
-    "maç": "Las Vegas Aces - Chicago Sky",
-    "turnuva": "WNBA",
-    "kanal": "NBA TV",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Fenerbahçe Beko - Dubai Basket",
-    "turnuva": "TÜBAD Basketbol Turnuvasi",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:30",
-    "maç": "Eibar - Andorra",
-    "turnuva": "İspanya La Liga 2",
-    "kanal": "S Sport",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Belarus - İskoçya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Cebelitarık - Faroe Adaları",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Yunanistan - Danimarka",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Kosova - İsveç",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "İsviçre - Slovenya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "İsrail - İtalya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Hırvatistan - Karadağ",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-08"
+    "saat": "19:00",
+    "maç": "Türkiye - Polonya",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-09"
   },
   {
     "spor": "Futbol",
@@ -198,5 +118,29 @@
     "turnuva": "Gloria Cup Basketbol",
     "kanal": "Yayın Yok",
     "tarih": "2025-09-10"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Almanya - Slovenya",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-10"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Finlandiya - Gürcistan",
+    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-10"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "04:00",
+    "maç": "New Mexico - Detroit",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2025-09-11"
   }
 ]
