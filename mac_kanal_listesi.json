@@ -1,94 +1,6 @@
 [
   {
     "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Litvanya - Yunanistan",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
-    "kanal": "TRT Spor",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Türkiye - Polonya",
-    "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
-    "kanal": "TRT Spor",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Ermenistan - İrlanda",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Azerbaycan - Ukrayna",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "CBC Sport",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Sırbistan - İngiltere",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Norveç - Moldova",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Macaristan - Portekiz",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Güney Kıbrıs - Romanya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Fransa - İzlanda",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Bosna Hersek - Avusturya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Arnavutluk - Letonya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-09-09"
-  },
-  {
-    "spor": "Basketbol",
     "saat": "05:00",
     "maç": "Phoenix Mercury - LA Sparks",
     "turnuva": "WNBA",
@@ -106,23 +18,15 @@
   {
     "spor": "Basketbol",
     "saat": "16:30",
-    "maç": "Anadolu Efes - Bahçeşehir Klj",
-    "turnuva": "Gloria Cup Basketbol",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-09-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
     "maç": "Tofaş - Zalgiris Kaunas",
     "turnuva": "Gloria Cup Basketbol",
-    "kanal": "Yayın Yok",
+    "kanal": "Gloria Arena Youtube",
     "tarih": "2025-09-10"
   },
   {
     "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Almanya - Slovenya",
+    "saat": "17:00",
+    "maç": "Finlandiya - Gürcistan",
     "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
     "kanal": "TRT Spor",
     "tarih": "2025-09-10"
@@ -130,7 +34,15 @@
   {
     "spor": "Basketbol",
     "saat": "19:00",
-    "maç": "Finlandiya - Gürcistan",
+    "maç": "Anadolu Efes - Bahçeşehir Klj",
+    "turnuva": "Gloria Cup Basketbol",
+    "kanal": "Gloria Arena Youtube",
+    "tarih": "2025-09-10"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:00",
+    "maç": "Almanya - Slovenya",
     "turnuva": "Avrupa Basketbol Şampiyonasi EuroBasket Çeyrek Final",
     "kanal": "TRT Spor",
     "tarih": "2025-09-10"
@@ -142,5 +54,133 @@
     "turnuva": "ABD USL Championship",
     "kanal": "USL Championship Youtube",
     "tarih": "2025-09-11"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "03:00",
+    "maç": "Chicago Sky - NY Liberty",
+    "turnuva": "WNBA",
+    "kanal": "NBA TV",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "05:00",
+    "maç": "LA Sparks - Las Vegas Aces",
+    "turnuva": "WNBA",
+    "kanal": "NBA TV",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:00",
+    "maç": "Galatasaray MCT Technic - Zalgiris Kaunas",
+    "turnuva": "Gloria Cup Basketbol",
+    "kanal": "Gloria Arena Youtube",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:30",
+    "maç": "Bahçeşehir Klj - Tofaş",
+    "turnuva": "Gloria Cup Basketbol",
+    "kanal": "Gloria Arena Youtube",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:45",
+    "maç": "Kapaz - Araz",
+    "turnuva": "Azerbaycan Premier Ligi",
+    "kanal": "CBC Sport",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Esenler Erokspor - Hatayspor",
+    "turnuva": "Trendyol 1. Lig",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Anadolu Efes - Lokomotiv Kuban",
+    "turnuva": "Basketbol Hazirlik Maçi",
+    "kanal": "Yayın Yok",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Karabağ - Zira",
+    "turnuva": "Azerbaycan Premier Ligi",
+    "kanal": "CBC Sport",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:30",
+    "maç": "Paderborn - Bochum",
+    "turnuva": "Almanya Bundesliga 2",
+    "kanal": "Tivibu Spor 3",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:30",
+    "maç": "Arminia Bielefeld - Magdeburg",
+    "turnuva": "Almanya Bundesliga 2",
+    "kanal": "Tivibu Spor 2",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Bodrumspor - Adana Demirspor",
+    "turnuva": "Trendyol 1. Lig",
+    "kanal": "TRT Spor",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:00",
+    "maç": "Al Ittihad - Al Fateh",
+    "turnuva": "Suudi Arabistan Pro Lig",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:30",
+    "maç": "West Ham - Arsenal",
+    "turnuva": "İngiltere Kadinlar Süper Ligi",
+    "kanal": "W-Sport",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:30",
+    "maç": "Bayer Leverkusen - Eintracht Frankfurt",
+    "turnuva": "Almanya Bundesliga",
+    "kanal": "Tivibu Spor 1",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Sevilla - Elche",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
+    "tarih": "2025-09-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:15",
+    "maç": "Benfica - Santa Clara",
+    "turnuva": "Portekiz Liga NOS",
+    "kanal": "Tivibu Spor 2",
+    "tarih": "2025-09-12"
   }
 ]
