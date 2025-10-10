@@ -1,174 +1,6 @@
 [
   {
     "spor": "Futbol",
-    "saat": "11:15",
-    "maç": "Milli Takım",
-    "turnuva": "Antrenman",
-    "kanal": "A Spor",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
-    "maç": "Kazakistan - Lihtenştayn",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:30",
-    "maç": "Adana Basket - Turgutlu Bld.",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Bodrum Basket - Fenerbahçe Gelişim",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:30",
-    "maç": "Urla Bld. - Edirne DSİ",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Beşiktaş GAİN - Büyükçekmece",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Vincenzo Montella",
-    "turnuva": "Basin Toplantisi",
-    "kanal": "A Spor",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:30",
-    "maç": "Leipzig - Essen",
-    "turnuva": "Almanya Kadinlar Bundesliga",
-    "kanal": "W-Sport",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Bandırma Bordo - Pizzabulls Cedi Osman",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:45",
-    "maç": "Fenerbahçe Beko - Kizilyildiz",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:15",
-    "maç": "Olympiakos - Dubai Basket",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:30",
-    "maç": "Granada - Las Palmas",
-    "turnuva": "İspanya La Liga 2",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:30",
-    "maç": "Bayern Münih - Zalgiris Kaunas",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:30",
-    "maç": "Barcelona - Valencia Basket",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport 2",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Belçika - Kuzey Makedonya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "İsveç - İsviçre",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Fransa - Azerbaycan",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Almanya - Lüksemburg",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "İzlanda - Ukrayna",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Kuzey İrlanda - Slovakya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Kosova - Slovenya",
-    "turnuva": "2026 Dünya Kupasi Eleme",
-    "kanal": "Exxen",
-    "tarih": "2025-10-10"
-  },
-  {
-    "spor": "Futbol",
     "saat": "01:00",
     "maç": "Lexington - Carolina Ascent",
     "turnuva": "ABD USL Kadinlar Championship",
@@ -186,14 +18,6 @@
   {
     "spor": "Futbol",
     "saat": "12:00",
-    "maç": "Beşiktaş - Hakkarigücü",
-    "turnuva": "Turkcell Kadinlar Futbol Ligi",
-    "kanal": "Yayın Yok",
-    "tarih": "2025-10-11"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "12:00",
     "maç": "Fenerbahçe - Bornova FK",
     "turnuva": "Turkcell Kadinlar Futbol Ligi",
     "kanal": "FB TV",
@@ -204,7 +28,15 @@
     "saat": "12:00",
     "maç": "Fomget Gençlik - Galatasaray",
     "turnuva": "Turkcell Kadinlar Futbol Ligi",
-    "kanal": "Yayın Yok",
+    "kanal": "Fil Spor 1",
+    "tarih": "2025-10-11"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "12:30",
+    "maç": "Beşiktaş - Hakkarigücü",
+    "turnuva": "Turkcell Kadinlar Futbol Ligi",
+    "kanal": "Fil Spor 2",
     "tarih": "2025-10-11"
   },
   {
@@ -225,6 +57,14 @@
   },
   {
     "spor": "Futbol",
+    "saat": "13:30",
+    "maç": "Ağrı 1970 - Diyarbekirspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-10-11"
+  },
+  {
+    "spor": "Futbol",
     "saat": "13:45",
     "maç": "İsveç - Türkiye",
     "turnuva": "U19 Hazirlik Maçi",
@@ -234,9 +74,9 @@
   {
     "spor": "Futbol",
     "saat": "14:00",
-    "maç": "Aliağa FK - Y.Malatyaspor",
-    "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "maç": "Kilis Bld. - 12 Bingölspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Bi Kanal",
     "tarih": "2025-10-11"
   },
   {
@@ -252,7 +92,7 @@
     "saat": "14:00",
     "maç": "Bozokspor - Fatsa Bld.",
     "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "kanal": "Sıfır TV",
     "tarih": "2025-10-11"
   },
   {
@@ -272,27 +112,19 @@
     "tarih": "2025-10-11"
   },
   {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "ALG Spor - Trabzonspor",
+    "turnuva": "Turkcell Kadinlar Futbol Ligi",
+    "kanal": "Fil Spor 3",
+    "tarih": "2025-10-11"
+  },
+  {
     "spor": "Basketbol",
     "saat": "14:30",
     "maç": "İstanbul Gençlik - Kırklareli Bld.",
     "turnuva": "Kadinlar Basketbol 1. Ligi",
     "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-11"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:30",
-    "maç": "Ağrı 1970 - Diyarbekirspor",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
-    "tarih": "2025-10-11"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:30",
-    "maç": "Kilis Bld. - 12 Bingölspor",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
     "tarih": "2025-10-11"
   },
   {
@@ -354,6 +186,14 @@
   {
     "spor": "Futbol",
     "saat": "15:30",
+    "maç": "Aliağa FK - Y.Malatyaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-10-11"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:30",
     "maç": "Kestel Çilek Spor - Çorluspor 1947",
     "turnuva": "TFF 3. Lig",
     "kanal": "Sıfır TV Youtube",
@@ -380,7 +220,15 @@
     "saat": "16:00",
     "maç": "Beyoğlu Yeni Çarşı - Batman Petrol",
     "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-10-11"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Altay - Sökespor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV",
     "tarih": "2025-10-11"
   },
   {
@@ -435,14 +283,6 @@
     "spor": "Futbol",
     "saat": "19:00",
     "maç": "İzmir Çoruhlu FK - Karşıyaka",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
-    "tarih": "2025-10-11"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Altay - Sökespor",
     "turnuva": "TFF 3. Lig",
     "kanal": "Sıfır TV Youtube",
     "tarih": "2025-10-11"
@@ -644,7 +484,7 @@
     "saat": "14:00",
     "maç": "Mardin 1969 - Arnavutköy Bld.",
     "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "kanal": "Sıfır TV",
     "tarih": "2025-10-12"
   },
   {
@@ -676,7 +516,7 @@
     "saat": "14:00",
     "maç": "Sebat Gençlik - 52 Orduspor",
     "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "kanal": "Bi Kanal",
     "tarih": "2025-10-12"
   },
   {
@@ -810,14 +650,6 @@
   {
     "spor": "Futbol",
     "saat": "15:30",
-    "maç": "Gebzespor - Isparta 32 Spor",
-    "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
-    "tarih": "2025-10-12"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
     "maç": "İnegölspor - Beykoz Anadolu",
     "turnuva": "TFF 2. Lig",
     "kanal": "Sıfır TV Youtube",
@@ -922,6 +754,14 @@
   {
     "spor": "Futbol",
     "saat": "16:00",
+    "maç": "Gebzespor - Isparta 32 Spor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-10-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
     "maç": "Bulvarspor - Yıldırımspor",
     "turnuva": "TFF 3. Lig",
     "kanal": "Sıfır TV Youtube",
@@ -932,7 +772,7 @@
     "saat": "16:00",
     "maç": "Ayvalıkgücü Bld. - Eskişehirspor",
     "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "kanal": "Bi Kanal",
     "tarih": "2025-10-12"
   },
   {
@@ -1060,7 +900,7 @@
     "saat": "19:00",
     "maç": "Elazığspor - Karaman FK",
     "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
+    "kanal": "Sıfır TV",
     "tarih": "2025-10-12"
   },
   {
@@ -1110,5 +950,125 @@
     "turnuva": "2026 Dünya Kupasi Eleme",
     "kanal": "S Sport Plus",
     "tarih": "2025-10-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:00",
+    "maç": "Austin FC - Los Angeles FC",
+    "turnuva": "MLS",
+    "kanal": "TRT Spor",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "11:30",
+    "maç": "Milli Takım",
+    "turnuva": "Antrenman",
+    "kanal": "A Spor",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "Darıca Basketbol Feneri - Burhaniye Bld.",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "Mersin BB - Yalova VIP",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Manisa BB - Esenler Erokspor",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:30",
+    "maç": "Cordoba - Leonesa",
+    "turnuva": "İspanya La Liga 2",
+    "kanal": "S Sport",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Slovakya - Lüksemburg",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "İsveç - Kosova",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "İzlanda - Fransa",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Vincenzo Montella",
+    "turnuva": "Basin Toplantisi",
+    "kanal": "A Spor",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Kuzey İrlanda - Almanya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Kuzey Makedonya - Kazakistan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Slovenya - İsviçre",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Galler - Belçika",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-10-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Ukrayna - Azerbaycan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-10-13"
   }
 ]
