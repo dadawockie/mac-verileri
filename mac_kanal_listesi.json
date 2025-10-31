@@ -2,178 +2,10 @@
   {
     "spor": "Futbol",
     "saat": "01:00",
-    "maç": "Lanus - Universidad de Chile",
-    "turnuva": "Copa Sudamericana Yarı Final",
-    "kanal": "S Sport",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "03:30",
-    "maç": "Palmeiras - LDU Quito",
-    "turnuva": "Copa Libertadores Yarı Final",
-    "kanal": "S Sport",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Türk Telekom Gelişim - İTÜ",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Fenerbahçe Gelişim - Mersin Gençlerbirliği",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:50",
-    "maç": "Al Hilal - Al Shabab",
-    "turnuva": "Suudi Arabistan Pro Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Bodrum Basket - Kırklareli Bld.",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Sakarya BB - Ege Üni.",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Watergarden HT - Etimesgut Bld.",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Esenler Erokspor - Tofaş",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Rams Başakşehir - Kocaelispor",
-    "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Hatayspor - Erzurumspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "TED Kolejliler - Ankaragücü",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Elversberg - Hannover 96",
-    "turnuva": "Almanya Bundesliga 2",
-    "kanal": "Tivibu Spor 3",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Preussen Münster - Holstein Kiel",
-    "turnuva": "Almanya Bundesliga 2",
-    "kanal": "Tivibu Spor 4",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:00",
-    "maç": "Monaco - Panathinaikos",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport 2",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "PSV - Fortuna Sittard",
-    "turnuva": "Hollanda Eredivisie",
-    "kanal": "Tivibu Spor 2",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:15",
-    "maç": "Olympiakos - Hapoel Tel Aviv",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:30",
-    "maç": "Augsburg - B.Dortmund",
-    "turnuva": "Almanya Bundesliga",
-    "kanal": "Tivibu Spor 1",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:30",
-    "maç": "Partizan - Barcelona",
-    "turnuva": "THY Euroleague",
-    "kanal": "Idman TV",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:30",
-    "maç": "Baskonia - Anadolu Efes",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Getafe - Girona",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2025-10-31"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:15",
-    "maç": "Sporting Lisbon - Alverca",
-    "turnuva": "Portekiz Liga NOS",
-    "kanal": "Tivibu Spor 4",
-    "tarih": "2025-10-31"
+    "maç": "San Lorenzo - Deportivo Riestra",
+    "turnuva": "Arjantin Primera Division",
+    "kanal": "Spor Smart",
+    "tarih": "2025-11-01"
   },
   {
     "spor": "Basketbol",
@@ -181,6 +13,14 @@
     "maç": "Philadelphia 76ers - Boston Celtics",
     "turnuva": "NBA",
     "kanal": "Prime Video",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "03:15",
+    "maç": "Instituto AC - Rosario Central",
+    "turnuva": "Arjantin Primera Division",
+    "kanal": "Spor Smart",
     "tarih": "2025-11-01"
   },
   {
@@ -213,6 +53,38 @@
     "maç": "Kağıtspor - Pizzabulls Cedi Osman",
     "turnuva": "Basketbol 1. Ligi",
     "kanal": "TBF TV Youtube",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Mazıdağı Fosfat - Kırşehirspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Tokat Bld. - Artvin Hopa",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Çayelispor - Bozokspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Eskişehir Anadolu Spor - Afyonspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
     "tarih": "2025-11-01"
   },
   {
@@ -288,6 +160,30 @@
     "tarih": "2025-11-01"
   },
   {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Edirnespor - Silivrispor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Sökespor - Denizli İdmanyurdu Güreller",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Balıkesirspor - Nazilli Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-11-01"
+  },
+  {
     "spor": "Basketbol",
     "saat": "15:30",
     "maç": "Türk Telekom - Galatasaray MCT Technic",
@@ -320,6 +216,14 @@
     "tarih": "2025-11-01"
   },
   {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Reims - Dunkerque HB",
+    "turnuva": "Fransa Ligue 2",
+    "kanal": "Bein Sports 4",
+    "tarih": "2025-11-01"
+  },
+  {
     "spor": "Basketbol",
     "saat": "16:30",
     "maç": "Fenerbahçe Koleji - Çayırova Bld.",
@@ -332,7 +236,7 @@
     "saat": "17:00",
     "maç": "Göztepe - Gençlerbirliği",
     "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
+    "kanal": "Bein Sports 2",
     "tarih": "2025-11-01"
   },
   {
@@ -341,6 +245,30 @@
     "maç": "Udinese - Atalanta",
     "turnuva": "İtalya Serie A",
     "kanal": "S Sport 2",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Bucaspor - İskenderunspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Giresunspor - Pazarspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Tire 2021 - Ayvalıkgücü Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
     "tarih": "2025-11-01"
   },
   {
@@ -396,7 +324,7 @@
     "saat": "18:00",
     "maç": "Burnley - Arsenal",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 3",
     "tarih": "2025-11-01"
   },
   {
@@ -420,7 +348,7 @@
     "saat": "18:00",
     "maç": "Nottingham Forest - Manchester Utd",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports Max 2",
     "tarih": "2025-11-01"
   },
   {
@@ -476,7 +404,7 @@
     "saat": "19:00",
     "maç": "PSG - Nice",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2025-11-01"
   },
   {
@@ -508,7 +436,7 @@
     "saat": "20:30",
     "maç": "Tottenham - Chelsea",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Idman TV",
+    "kanal": "Bein Sports 3",
     "tarih": "2025-11-01"
   },
   {
@@ -532,7 +460,7 @@
     "saat": "21:00",
     "maç": "Monaco - Paris FC",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2025-11-01"
   },
   {
@@ -541,6 +469,30 @@
     "maç": "Feyenoord - Volendam",
     "turnuva": "Hollanda Eredivisie",
     "kanal": "Tivibu Spor 3",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Cruzeiro - Vitoria",
+    "turnuva": "Brezilya Serie A",
+    "kanal": "Spor Smart",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Gran Canaria - MoraBanc Andorra",
+    "turnuva": "İspanya Basketbol Ligi",
+    "kanal": "Smart Spor 2",
+    "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Red Star - St. Etienne",
+    "turnuva": "Fransa Ligue 2",
+    "kanal": "Bein Sports 2",
     "tarih": "2025-11-01"
   },
   {
@@ -564,7 +516,7 @@
     "saat": "23:00",
     "maç": "Liverpool - Aston Villa",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Idman TV",
+    "kanal": "Bein Sports 3",
     "tarih": "2025-11-01"
   },
   {
@@ -580,7 +532,7 @@
     "saat": "23:05",
     "maç": "Auxerre - Marsilya",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2025-11-01"
   },
   {
@@ -590,6 +542,14 @@
     "turnuva": "Portekiz Liga NOS",
     "kanal": "Tivibu Spor 2",
     "tarih": "2025-11-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "00:30",
+    "maç": "Mirassol - Botafogo RJ",
+    "turnuva": "Brezilya Serie A",
+    "kanal": "Smart Spor 2",
+    "tarih": "2025-11-02"
   },
   {
     "spor": "Futbol",
@@ -617,6 +577,134 @@
   },
   {
     "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Aksaray Bld. - Gebzespor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Muşspor - 1461 Trabzon",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Isparta 32 Spor - Ankara Demir",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Kırklarelispor - Mardin 1969",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Kastamonuspor - Ankaragücü",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Beykoz Anadolu - 24 Erzincanspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Osmaniyespor - Karaköprü Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Silifke Bld. - Kilis Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Diyarbekirspor - Kırıkkalespor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Kahramanmaraş - Kapadokya Spor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Düzcespor - Kdz Ereğli Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Y.Amasyaspor - Bulancakspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Karabük İY - Orduspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Zonguldakspor - Sebat Gençlik",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Alanya 1221 - İzmir Çoruhlu FK",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Kütahyaspor - Altay",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Bi Kanal",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
     "saat": "13:30",
     "maç": "Manisa FK - Amedspor",
     "turnuva": "Trendyol 1. Lig",
@@ -628,7 +716,7 @@
     "saat": "13:30",
     "maç": "İstanbulspor - Pendikspor",
     "turnuva": "Trendyol 1. Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports Max 2",
     "tarih": "2025-11-02"
   },
   {
@@ -649,10 +737,50 @@
   },
   {
     "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Arnavutköy Bld. - Aliağa FK",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Mersin İY - Y.Malatyaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Kepez Bld. - Erbaaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Sincan Bld - Adana 01 FK",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Karaman FK - Altınordu",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
     "saat": "14:30",
     "maç": "Konyaspor - Samsunspor",
     "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
+    "kanal": "Bein Sports 2",
     "tarih": "2025-11-02"
   },
   {
@@ -685,6 +813,126 @@
     "maç": "Gaziantep Basket - Yalovaspor",
     "turnuva": "Basketbol 1. Ligi",
     "kanal": "TBF TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Bursaspor - Kahramanmaraş İstiklal",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "As TV Bursa",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Menemenspor - Fethiyespor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Adanaspor - Somaspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Şanlıurfaspor - Beyoğlu Yeni Çarşı",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Karacabey Bld. - Batman Petrol",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Muğlaspor - Elazığspor",
+    "turnuva": "TFF 2. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Küçükçekmece Sinop - Kestel Çilek Spor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Yıldırımspor - Polatlı Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Beykoz İshaklı Spor - İnkılap FK",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "İnegöl Kafkas - Etimesgut Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Yalova - Bulvarspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Galata Spor - Çorluspor 1947",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Çankaya FK - Bursa Nilüfer",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Niğde Bld. - Yeşilyurt Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Bornova 1877 - Eskişehirspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV",
     "tarih": "2025-11-02"
   },
   {
@@ -788,7 +1036,7 @@
     "saat": "17:00",
     "maç": "Kayserispor - Kasımpaşa",
     "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
+    "kanal": "Bein Sports 2",
     "tarih": "2025-11-02"
   },
   {
@@ -796,7 +1044,7 @@
     "saat": "17:00",
     "maç": "Rennes - Strasbourg",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2025-11-02"
   },
   {
@@ -820,7 +1068,23 @@
     "saat": "17:00",
     "maç": "West Ham - Newcastle",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 3",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "52 Orduspor - Fatsa Bld.",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Karşıyaka - Uşakspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Bi Kanal",
     "tarih": "2025-11-02"
   },
   {
@@ -868,7 +1132,7 @@
     "saat": "19:00",
     "maç": "Barcelona - Murcia",
     "turnuva": "İspanya Basketbol Ligi",
-    "kanal": "Spor Smart",
+    "kanal": "Smart Spor 2",
     "tarih": "2025-11-02"
   },
   {
@@ -876,7 +1140,7 @@
     "saat": "19:15",
     "maç": "Lens - Lorient",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports Max 2",
     "tarih": "2025-11-02"
   },
   {
@@ -884,7 +1148,7 @@
     "saat": "19:15",
     "maç": "Lille - Angers",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2025-11-02"
   },
   {
@@ -916,7 +1180,7 @@
     "saat": "19:30",
     "maç": "Manchester City - Bournemouth",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 3",
     "tarih": "2025-11-02"
   },
   {
@@ -945,10 +1209,18 @@
   },
   {
     "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Estudiantes - Boca Juniors",
+    "turnuva": "Arjantin Primera Division",
+    "kanal": "Smart Spor 2",
+    "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
     "saat": "22:45",
     "maç": "Brest - Lyon",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2025-11-02"
   },
   {
@@ -982,5 +1254,141 @@
     "turnuva": "NBA",
     "kanal": "S Sport Plus",
     "tarih": "2025-11-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "00:30",
+    "maç": "Juventude - Palmeiras",
+    "turnuva": "Brezilya Serie A",
+    "kanal": "Spor Smart",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "02:30",
+    "maç": "River Plate - Gimnasia La Plata",
+    "turnuva": "Arjantin Primera Division",
+    "kanal": "Spor Smart",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Türk Metal 1963 - Ağrı 1970",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Erciyes 38 FK - 12 Bingölspor",
+    "turnuva": "TFF 3. Lig",
+    "kanal": "Sıfır TV Youtube",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:00",
+    "maç": "iLab Basketbol - Göztepe",
+    "turnuva": "Basketbol 1. Ligi",
+    "kanal": "HT Spor",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Iğdırspor - Bandırmaspor",
+    "turnuva": "Trendyol 1. Lig",
+    "kanal": "TRT Spor",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "Mersin Basketbol - Burhaniye Bld.",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Anadolu Efes - Manisa BB",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Eyüpspor - Antalyaspor",
+    "turnuva": "Trendyol Süper Lig",
+    "kanal": "Bein Sports 3",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Alanyaspor - Gaziantep FK",
+    "turnuva": "Trendyol Süper Lig",
+    "kanal": "Bein Sports 1",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Ç.Rizespor - Fatih Karagümrük",
+    "turnuva": "Trendyol Süper Lig",
+    "kanal": "Bein Sports 2",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Esenler Erokspor - Çorum FK",
+    "turnuva": "Trendyol 1. Lig",
+    "kanal": "TRT Spor",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:30",
+    "maç": "Sassuolo - Genoa",
+    "turnuva": "İtalya Serie A",
+    "kanal": "S Sport 2",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:30",
+    "maç": "Valladolid - Granada",
+    "turnuva": "İspanya La Liga 2",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Lazio - Cagliari",
+    "turnuva": "İtalya Serie A",
+    "kanal": "S Sport 2",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Sunderland - Everton",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports 3",
+    "tarih": "2025-11-03"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Real Oviedo - Osasuna",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
+    "tarih": "2025-11-03"
   }
 ]
