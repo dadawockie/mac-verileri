@@ -1,238 +1,6 @@
 [
   {
     "spor": "Futbol",
-    "saat": "02:30",
-    "maç": "Mirassol - Palmeiras",
-    "turnuva": "Brezilya Serie A",
-    "kanal": "Smart Spor 2",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "04:30",
-    "maç": "Baylor Bears - Washington",
-    "turnuva": "NCAA",
-    "kanal": "S Sport",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "10:00",
-    "maç": "Kocaeli Basket - OGM Orman",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "10:00",
-    "maç": "Ege Gelişim - Nesibe Aydın",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "10:00",
-    "maç": "Esenler Erokspor - Trabzonspor",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "12:30",
-    "maç": "Büyükçekmece - Manisa BB",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "12:30",
-    "maç": "Bursaspor - Anadolu Efes",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "12:30",
-    "maç": "Beşiktaş - Botaş",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:00",
-    "maç": "Fenerbahçe Beko - Petkimspor",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:00",
-    "maç": "ÇBK Mersin - TED Kolejliler",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:00",
-    "maç": "Karşıyaka - Merkezefendi Bld.",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
-    "maç": "Güney Kore - Fildişi Sahili",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
-    "maç": "İsviçre - Meksika",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:30",
-    "maç": "El Salvador - Almanya",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:30",
-    "maç": "Kolombiya - Kuzey Kore",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:30",
-    "maç": "Mersin Basketbol - Beşiktaş",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:30",
-    "maç": "Çağdaş Kolejliler - Kayseri Basket",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:30",
-    "maç": "Çanakkale Bld. - Adana BB",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:45",
-    "maç": "Zambiya - Brezilya",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:45",
-    "maç": "Honduras - Endonezya",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:45",
-    "maç": "Venezuela - Haiti",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:45",
-    "maç": "Mısır - İngiltere",
-    "turnuva": "FiFA U17 Dünya Kupasi",
-    "kanal": "Plus FIFA",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Galatasaray - Fenerbahçe",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Türk Telekom - Bahçeşehir Klj",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Galatasaray - Tofaş",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Çayırova Bld. - Harem Spor",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Çankaya Üni. - Emlak Konut",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Freiburg - Bayer Leverkusen",
-    "turnuva": "Almanya Kadinlar Bundesliga",
-    "kanal": "W-Sport",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:30",
-    "maç": "Burgos - Castellon",
-    "turnuva": "İspanya La Liga 2",
-    "kanal": "S Sport",
-    "tarih": "2025-11-10"
-  },
-  {
-    "spor": "Futbol",
     "saat": "01:00",
     "maç": "Deportivo Riestra - CA Independiente",
     "turnuva": "Arjantin Primera Division",
@@ -258,14 +26,6 @@
   {
     "spor": "Basketbol",
     "saat": "10:00",
-    "maç": "Nesibe Aydın - ÇBK Mersin",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-11"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "10:00",
     "maç": "Beşiktaş - Çağdaş Kolejliler",
     "turnuva": "Kizlar Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
@@ -273,8 +33,8 @@
   },
   {
     "spor": "Basketbol",
-    "saat": "12:30",
-    "maç": "Botaş - Ege Gelişim",
+    "saat": "10:00",
+    "maç": "Nesibe Aydın - ÇBK Mersin",
     "turnuva": "Kizlar Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
     "tarih": "2025-11-11"
@@ -292,6 +52,14 @@
     "saat": "12:30",
     "maç": "Fenerbahçe Beko - Karşıyaka",
     "turnuva": "Basketbol Gençler Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2025-11-11"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "12:30",
+    "maç": "Botaş - Ege Gelişim",
+    "turnuva": "Kizlar Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
     "tarih": "2025-11-11"
   },
@@ -362,7 +130,7 @@
   {
     "spor": "Basketbol",
     "saat": "17:30",
-    "maç": "OGM Orman - Çankaya Üni.",
+    "maç": "Adana BB - Galatasaray",
     "turnuva": "Kizlar Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
     "tarih": "2025-11-11"
@@ -370,7 +138,7 @@
   {
     "spor": "Basketbol",
     "saat": "17:30",
-    "maç": "Adana BB - Galatasaray",
+    "maç": "OGM Orman - Çankaya Üni.",
     "turnuva": "Kizlar Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
     "tarih": "2025-11-11"
@@ -378,7 +146,7 @@
   {
     "spor": "Futbol",
     "saat": "17:45",
-    "maç": "Çekya - ABD",
+    "maç": "Burkina Faso - Tacikistan",
     "turnuva": "FiFA U17 Dünya Kupasi",
     "kanal": "Plus FIFA",
     "tarih": "2025-11-11"
@@ -386,7 +154,7 @@
   {
     "spor": "Futbol",
     "saat": "17:45",
-    "maç": "Burkina Faso - Tacikistan",
+    "maç": "Çekya - ABD",
     "turnuva": "FiFA U17 Dünya Kupasi",
     "kanal": "Plus FIFA",
     "tarih": "2025-11-11"
@@ -410,14 +178,6 @@
   {
     "spor": "Basketbol",
     "saat": "19:00",
-    "maç": "Petkimspor - Galatasaray",
-    "turnuva": "Basketbol Gençler Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2025-11-11"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
     "maç": "Dubai Basket - Kizilyildiz",
     "turnuva": "THY Euroleague",
     "kanal": "S Sport",
@@ -425,9 +185,17 @@
   },
   {
     "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Petkimspor - Galatasaray",
+    "turnuva": "Basketbol Gençler Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2025-11-11"
+  },
+  {
+    "spor": "Basketbol",
     "saat": "20:00",
-    "maç": "Emlak Konut - Kayseri Basket",
-    "turnuva": "Kizlar Basketbol Gençler Ligi",
+    "maç": "Beşiktaş - Büyükçekmece",
+    "turnuva": "Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
     "tarih": "2025-11-11"
   },
@@ -442,8 +210,8 @@
   {
     "spor": "Basketbol",
     "saat": "20:00",
-    "maç": "Beşiktaş - Büyükçekmece",
-    "turnuva": "Basketbol Gençler Ligi",
+    "maç": "Emlak Konut - Kayseri Basket",
+    "turnuva": "Kizlar Basketbol Gençler Ligi",
     "kanal": "TBF TV Youtube",
     "tarih": "2025-11-11"
   },
@@ -482,7 +250,7 @@
   {
     "spor": "Basketbol",
     "saat": "22:00",
-    "maç": "Dijon - BC Cibona",
+    "maç": "Antwerp Giants - Rostock",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-11"
@@ -498,7 +266,7 @@
   {
     "spor": "Basketbol",
     "saat": "22:00",
-    "maç": "Antwerp Giants - Rostock",
+    "maç": "Dijon - BC Cibona",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-11"
@@ -507,6 +275,22 @@
     "spor": "Basketbol",
     "saat": "22:05",
     "maç": "Hapoel Tel Aviv - Baskonia",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-11-11"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Partizan - Monaco",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-11-11"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Valencia Basket - Real Madrid",
     "turnuva": "THY Euroleague",
     "kanal": "S Sport Plus",
     "tarih": "2025-11-11"
@@ -529,30 +313,6 @@
   },
   {
     "spor": "Basketbol",
-    "saat": "22:30",
-    "maç": "Partizan - Monaco",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-11-11"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:30",
-    "maç": "Valencia Basket - Real Madrid",
-    "turnuva": "THY Euroleague",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-11-11"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "St.Polten - Chelsea",
-    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
-    "kanal": "Disney Plus",
-    "tarih": "2025-11-11"
-  },
-  {
-    "spor": "Basketbol",
     "saat": "23:00",
     "maç": "Paris - Panathinaikos",
     "turnuva": "THY Euroleague",
@@ -570,6 +330,14 @@
   {
     "spor": "Futbol",
     "saat": "23:00",
+    "maç": "Lyon - Wolfsburg",
+    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
+    "kanal": "TRT Spor",
+    "tarih": "2025-11-11"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
     "maç": "Real Madrid - Paris FC",
     "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
     "kanal": "Disney Plus",
@@ -578,18 +346,10 @@
   {
     "spor": "Futbol",
     "saat": "23:00",
-    "maç": "Lyon - Wolfsburg",
+    "maç": "St.Polten - Chelsea",
     "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
-    "kanal": "TRT Spor",
+    "kanal": "Disney Plus",
     "tarih": "2025-11-11"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "04:00",
-    "maç": "Louisville - Kentucky Wildcats",
-    "turnuva": "NCAA",
-    "kanal": "S Sport Plus",
-    "tarih": "2025-11-12"
   },
   {
     "spor": "Basketbol",
@@ -597,6 +357,14 @@
     "maç": "OKC Thunder - GS Warriors",
     "turnuva": "NBA",
     "kanal": "S Sport",
+    "tarih": "2025-11-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "04:00",
+    "maç": "Louisville - Kentucky Wildcats",
+    "turnuva": "NCAA",
+    "kanal": "S Sport Plus",
     "tarih": "2025-11-12"
   },
   {
@@ -617,15 +385,15 @@
   },
   {
     "spor": "Futbol",
-    "saat": "12:00",
+    "saat": "14:00",
     "maç": "Galatasaray - Yüksekova Spor",
     "turnuva": "Turkcell Kadinlar Futbol Ligi",
-    "kanal": "Yayın Yok",
+    "kanal": "Galatasaray Youtube",
     "tarih": "2025-11-12"
   },
   {
     "spor": "Futbol",
-    "saat": "12:00",
+    "saat": "14:00",
     "maç": "Hakkarigücü - Fenerbahçe",
     "turnuva": "Turkcell Kadinlar Futbol Ligi",
     "kanal": "Yayın Yok",
@@ -642,17 +410,17 @@
   {
     "spor": "Basketbol",
     "saat": "19:00",
-    "maç": "Petkimspor - AEK",
-    "turnuva": "FIBA Europe Cup",
-    "kanal": "FIBA TV",
+    "maç": "Sabah Bakü - Elan Chalon",
+    "turnuva": "FIBA Şampiyonlar Ligi",
+    "kanal": "İçtimai TV",
     "tarih": "2025-11-12"
   },
   {
     "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Mersin Spor - Unicaja Malaga",
-    "turnuva": "FIBA Şampiyonlar Ligi",
-    "kanal": "TRT Spor Yildiz",
+    "saat": "19:00",
+    "maç": "Petkimspor - AEK",
+    "turnuva": "FIBA Europe Cup",
+    "kanal": "FIBA TV",
     "tarih": "2025-11-12"
   },
   {
@@ -674,15 +442,15 @@
   {
     "spor": "Basketbol",
     "saat": "20:00",
-    "maç": "CSM Oradea - Brasov",
-    "turnuva": "FIBA Europe Cup",
-    "kanal": "FIBA TV",
+    "maç": "Mersin Spor - Unicaja Malaga",
+    "turnuva": "FIBA Şampiyonlar Ligi",
+    "kanal": "TRT Spor Yildiz",
     "tarih": "2025-11-12"
   },
   {
     "spor": "Basketbol",
-    "saat": "20:30",
-    "maç": "Lublin - Rilski Sportist",
+    "saat": "20:00",
+    "maç": "CSM Oradea - Brasov",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-12"
@@ -699,6 +467,14 @@
     "spor": "Basketbol",
     "saat": "20:30",
     "maç": "BC Kalev - Neftchi IK",
+    "turnuva": "FIBA Europe Cup",
+    "kanal": "FIBA TV",
+    "tarih": "2025-11-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:30",
+    "maç": "Lublin - Rilski Sportist",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-12"
@@ -730,7 +506,7 @@
   {
     "spor": "Basketbol",
     "saat": "21:00",
-    "maç": "Bashkimi - Reggiana",
+    "maç": "BC Prievidza - Pelister",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-12"
@@ -746,15 +522,7 @@
   {
     "spor": "Basketbol",
     "saat": "21:00",
-    "maç": "BC Prievidza - Pelister",
-    "turnuva": "FIBA Europe Cup",
-    "kanal": "FIBA TV",
-    "tarih": "2025-11-12"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "21:15",
-    "maç": "PAOK - Anwil Wloclawek",
+    "maç": "Bashkimi - Reggiana",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-12"
@@ -763,6 +531,14 @@
     "spor": "Basketbol",
     "saat": "21:15",
     "maç": "Trefl Sopot - Absheron Lions",
+    "turnuva": "FIBA Europe Cup",
+    "kanal": "FIBA TV",
+    "tarih": "2025-11-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:15",
+    "maç": "PAOK - Anwil Wloclawek",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-12"
@@ -810,7 +586,7 @@
   {
     "spor": "Futbol",
     "saat": "23:00",
-    "maç": "Manchester Utd - PSG",
+    "maç": "Atletico Madrid - Juventus",
     "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
     "kanal": "Disney Plus",
     "tarih": "2025-11-12"
@@ -824,19 +600,139 @@
     "tarih": "2025-11-12"
   },
   {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Atletico Madrid - Juventus",
-    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
-    "kanal": "Disney Plus",
-    "tarih": "2025-11-12"
-  },
-  {
     "spor": "Basketbol",
     "saat": "23:00",
     "maç": "Porto - Tartu Ulikool",
     "turnuva": "FIBA Europe Cup",
     "kanal": "FIBA TV",
     "tarih": "2025-11-12"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Manchester Utd - PSG",
+    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi",
+    "kanal": "Disney Plus",
+    "tarih": "2025-11-12"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "03:00",
+    "maç": "New York Knicks - Orlando Magic",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "05:30",
+    "maç": "OKC Thunder - LA Lakers",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Ermenistan - Macaristan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Azerbaycan - İzlanda",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Norveç - Estonya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Kizilyildiz - Monaco",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Fenerbahçe Beko - Hapoel Tel Aviv",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:45",
+    "maç": "Real Madrid - Panathinaikos",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport 2",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:45",
+    "maç": "Paris - Valencia Basket",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Moldova - İtalya",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "İrlanda - Portekiz",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "İngiltere - Sırbistan",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Fransa - Ukrayna",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Andorra - Arnavutluk",
+    "turnuva": "2026 Dünya Kupasi Eleme",
+    "kanal": "Exxen",
+    "tarih": "2025-11-13"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "23:00",
+    "maç": "Maccabi Fox - Baskonia",
+    "turnuva": "THY Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2025-11-13"
   }
 ]
