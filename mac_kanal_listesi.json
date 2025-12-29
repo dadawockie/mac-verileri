@@ -1,69 +1,5 @@
 [
   {
-    "spor": "Futbol",
-    "saat": "14:30",
-    "maç": "Adana Demirspor - İstanbulspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Zimbabve - Güney Afrika",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Angola - Mısır",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Kağıtspor - iLab Basketbol",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Zambiya - Fas",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Komorlar - Mali",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Roma - Genoa",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2025-12-29"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:15",
-    "maç": "Porto - AVS",
-    "turnuva": "Portekiz Liga NOS",
-    "kanal": "Tivibu Spor 2",
-    "tarih": "2025-12-29"
-  },
-  {
     "spor": "Basketbol",
     "saat": "02:00",
     "maç": "Florida Gators - Dartmouth",
@@ -265,8 +201,8 @@
   },
   {
     "spor": "Basketbol",
-    "saat": "04:00",
-    "maç": "Memphis Grizzlies - Philadelphia 76ers",
+    "saat": "06:30",
+    "maç": "LA Lakers - Detroit Pistons",
     "turnuva": "NBA",
     "kanal": "S Sport",
     "tarih": "2025-12-31"
@@ -310,5 +246,37 @@
     "turnuva": "NBA",
     "kanal": "S Sport",
     "tarih": "2025-12-31"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:30",
+    "maç": "Crystal Palace - Fulham",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports beIN Connect",
+    "tarih": "2026-01-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:30",
+    "maç": "Liverpool - Leeds United",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports beIN Connect",
+    "tarih": "2026-01-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Brentford - Tottenham",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports beIN Connect",
+    "tarih": "2026-01-01"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Sunderland - Manchester City",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports beIN Connect",
+    "tarih": "2026-01-01"
   }
 ]
