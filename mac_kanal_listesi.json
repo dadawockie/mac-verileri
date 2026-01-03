@@ -1,350 +1,6 @@
 [
   {
     "spor": "Basketbol",
-    "saat": "03:30",
-    "maç": "New York Knicks - Atlanta Hawks",
-    "turnuva": "NBA",
-    "kanal": "Prime Video",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "06:00",
-    "maç": "GS Warriors - OKC Thunder",
-    "turnuva": "NBA",
-    "kanal": "Prime Video",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "13:00",
-    "maç": "Bahçeşehir Klj - Petkimspor",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "14:00",
-    "maç": "Beşiktaş - Kayseri Basket",
-    "turnuva": "Kadinlar Basketbol Süper Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:30",
-    "maç": "Como - Udinese",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "14:45",
-    "maç": "Fenerbahçe Koleji - Konya BB",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:00",
-    "maç": "Çanakkale Bld. - Emlak Konut",
-    "turnuva": "Kadinlar Basketbol Süper Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "15:30",
-    "maç": "Trabzonspor - Türk Telekom",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
-    "maç": "Aston Villa - Nottingham Forest",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
-    "maç": "Celtic - Glasgow Rangers",
-    "turnuva": "İskoçya Premier Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Celta Vigo - Valencia",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Botaş - Nesibe Aydın",
-    "turnuva": "Kadinlar Basketbol Süper Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Burhaniye Bld. - Adana Basket",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Kırklareli Bld. - Turgutlu Bld.",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Mersin Gençlerbirliği - Mersin Basketbol",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "Samsun Basket - Bodrum Basket",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:30",
-    "maç": "OGM Orman - Harem Spor",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
-    "maç": "Genoa - Pisa",
-    "turnuva": "İtalya Serie A",
-    "kanal": "Tivibu Spor 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
-    "maç": "Sassuolo - Parma",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Galatasaray - ÇBK Mersin",
-    "turnuva": "Kadinlar Basketbol Süper Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Edirne DSİ - Darıca Basketbol Feneri",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Bursaspor - Esenler Erokspor",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Brighton - Burnley",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Wolverhampton - West Ham",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Dundee United - Dundee FC",
-    "turnuva": "İskoçya Premier Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:15",
-    "maç": "TED Kolejliler - iLab Basketbol",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:15",
-    "maç": "Osasuna - Athletic Bilbao",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Monaco - Lyon",
-    "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports 4",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Senegal - Sudan",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Juventus - Lecce",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "20:00",
-    "maç": "Joventut Badalona - Iberostar Tenerife",
-    "turnuva": "İspanya Basketbol Ligi",
-    "kanal": "Spor Smart",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Elche - Villarreal",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Bournemouth - Arsenal",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Al Ittihad - Al Taawon",
-    "turnuva": "Suudi Arabistan Pro Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Valladolid - Racing Santander",
-    "turnuva": "İspanya La Liga 2",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Nice - Strasbourg",
-    "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports 4",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Benfica - Estoril",
-    "turnuva": "Portekiz Liga NOS",
-    "kanal": "Tivibu Spor 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Le Mans - St. Etienne",
-    "turnuva": "Fransa Ligue 2",
-    "kanal": "Bein Sports 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Mali - Tunus",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:00",
-    "maç": "Gran Canaria - Murcia",
-    "turnuva": "İspanya Basketbol Ligi",
-    "kanal": "Spor Smart",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Atalanta - Roma",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Espanyol - Barcelona",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:05",
-    "maç": "Lille - Rennes",
-    "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports 4",
-    "tarih": "2026-01-03"
-  },
-  {
-    "spor": "Basketbol",
     "saat": "03:00",
     "maç": "Cal State Fullerton Titans - UC Irvine",
     "turnuva": "NCAA",
@@ -362,14 +18,6 @@
   {
     "spor": "Basketbol",
     "saat": "13:00",
-    "maç": "Fenerbahçe Gelişim - Emlak Konut Gelişim",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2026-01-04"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "13:00",
     "maç": "Pizzabulls Cedi Osman - Ankaragücü",
     "turnuva": "Basketbol 1. Ligi",
     "kanal": "TBF TV Youtube",
@@ -378,9 +26,25 @@
   {
     "spor": "Basketbol",
     "saat": "13:00",
+    "maç": "Fenerbahçe Gelişim - Emlak Konut Gelişim",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "HT Spor",
+    "tarih": "2026-01-04"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:00",
     "maç": "Anadolu Efes - Mersin Spor",
     "turnuva": "Basketbol Süper Ligi",
     "kanal": "Bein Sports 5",
+    "tarih": "2026-01-04"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:30",
+    "maç": "Real Madrid - Barcelona",
+    "turnuva": "İspanya Basketbol Ligi",
+    "kanal": "Spor Smart",
     "tarih": "2026-01-04"
   },
   {
@@ -393,26 +57,10 @@
   },
   {
     "spor": "Basketbol",
-    "saat": "14:30",
-    "maç": "Real Madrid - Barcelona",
-    "turnuva": "İspanya Basketbol Ligi",
-    "kanal": "Spor Smart",
-    "tarih": "2026-01-04"
-  },
-  {
-    "spor": "Basketbol",
     "saat": "14:45",
     "maç": "Kağıtspor - Kahramanmaraş İstiklal",
     "turnuva": "Basketbol 1. Ligi",
     "kanal": "TBF TV Youtube",
-    "tarih": "2026-01-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
-    "maç": "Leeds United - Manchester Utd",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
     "tarih": "2026-01-04"
   },
   {
@@ -421,6 +69,14 @@
     "maç": "Merkezefendi Bld. - Büyükçekmece",
     "turnuva": "Basketbol Süper Ligi",
     "kanal": "Bein Sports 5",
+    "tarih": "2026-01-04"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:30",
+    "maç": "Leeds United - Manchester Utd",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-01-04"
   },
   {
@@ -442,14 +98,6 @@
   {
     "spor": "Futbol",
     "saat": "17:00",
-    "maç": "Marsilya - Nantes",
-    "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports 4",
-    "tarih": "2026-01-04"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
     "maç": "Fiorentina - Cremonese",
     "turnuva": "İtalya Serie A",
     "kanal": "S Sport 2",
@@ -457,10 +105,10 @@
   },
   {
     "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Fulham - Liverpool",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
+    "saat": "17:00",
+    "maç": "Marsilya - Nantes",
+    "turnuva": "Fransa Ligue 1",
+    "kanal": "Bein Sports 4",
     "tarih": "2026-01-04"
   },
   {
@@ -477,6 +125,14 @@
     "maç": "Everton - Brentford",
     "turnuva": "İngiltere Premier Lig",
     "kanal": "Bein Sports Max 2",
+    "tarih": "2026-01-04"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:00",
+    "maç": "Fulham - Liverpool",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-01-04"
   },
   {
@@ -504,14 +160,6 @@
     "tarih": "2026-01-04"
   },
   {
-    "spor": "Futbol",
-    "saat": "19:00",
-    "maç": "Fas - Tanzanya",
-    "turnuva": "CAF Afrika Uluslar Kupasi",
-    "kanal": "Exxen",
-    "tarih": "2026-01-04"
-  },
-  {
     "spor": "Basketbol",
     "saat": "19:00",
     "maç": "Baskonia - MoraBanc Andorra",
@@ -521,8 +169,16 @@
   },
   {
     "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Fas - Tanzanya",
+    "turnuva": "CAF Afrika Uluslar Kupasi",
+    "kanal": "Exxen",
+    "tarih": "2026-01-04"
+  },
+  {
+    "spor": "Futbol",
     "saat": "19:15",
-    "maç": "Lorient - Metz",
+    "maç": "Le Havre - Angers",
     "turnuva": "Fransa Ligue 1",
     "kanal": "Bein Sports beIN Connect",
     "tarih": "2026-01-04"
@@ -538,7 +194,7 @@
   {
     "spor": "Futbol",
     "saat": "19:15",
-    "maç": "Le Havre - Angers",
+    "maç": "Lorient - Metz",
     "turnuva": "Fransa Ligue 1",
     "kanal": "Bein Sports beIN Connect",
     "tarih": "2026-01-04"
@@ -554,17 +210,17 @@
   {
     "spor": "Futbol",
     "saat": "20:30",
-    "maç": "Mallorca - Girona",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
+    "maç": "Manchester City - Chelsea",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-01-04"
   },
   {
     "spor": "Futbol",
     "saat": "20:30",
-    "maç": "Manchester City - Chelsea",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
+    "maç": "Alaves - Real Oviedo",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport Plus",
     "tarih": "2026-01-04"
   },
   {
@@ -578,17 +234,17 @@
   {
     "spor": "Futbol",
     "saat": "20:30",
-    "maç": "Alaves - Real Oviedo",
-    "turnuva": "İspanya La Liga",
+    "maç": "Damac - Al Hilal",
+    "turnuva": "Suudi Arabistan Pro Lig",
     "kanal": "S Sport Plus",
     "tarih": "2026-01-04"
   },
   {
     "spor": "Futbol",
     "saat": "20:30",
-    "maç": "Damac - Al Hilal",
-    "turnuva": "Suudi Arabistan Pro Lig",
-    "kanal": "S Sport Plus",
+    "maç": "Mallorca - Girona",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
     "tarih": "2026-01-04"
   },
   {
@@ -678,5 +334,165 @@
     "turnuva": "Fransa Ligue 2",
     "kanal": "Bein Sports 4",
     "tarih": "2026-01-05"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "03:00",
+    "maç": "Detroit Pistons - New York Knicks",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "06:00",
+    "maç": "LA Clippers - GS Warriors",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:00",
+    "maç": "Pisa - Como",
+    "turnuva": "İtalya Serie A",
+    "kanal": "S Sport 2",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Cezayir - Demokratik Kongo",
+    "turnuva": "CAF Afrika Uluslar Kupasi",
+    "kanal": "Exxen",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Beşiktaş GAİN - Ratiopharm Ulm",
+    "turnuva": "Eurocup",
+    "kanal": "tabii Spor",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Lecce - Roma",
+    "turnuva": "İtalya Serie A",
+    "kanal": "S Sport 2",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Tofaş - Cholet Basket",
+    "turnuva": "FIBA Şampiyonlar Ligi",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Mersin Spor - Le Mans Basket",
+    "turnuva": "FIBA Şampiyonlar Ligi",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:30",
+    "maç": "Fenerbahçe - Samsunspor",
+    "turnuva": "TFF Süper Kupa Yarı Final",
+    "kanal": "Yayıncı Belli Değil",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:45",
+    "maç": "Fenerbahçe Beko - Olympiakos",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:00",
+    "maç": "Cedevita Olimpija - Bahçeşehir Klj",
+    "turnuva": "Eurocup",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:30",
+    "maç": "Monaco - Partizan",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Asvel Villeurbanne - Real Madrid",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Kizilyildiz - Valencia Basket",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:05",
+    "maç": "Hapoel Tel Aviv - Dubai Basket",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:15",
+    "maç": "Panathinaikos - Olimpia Milano",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport 2",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Barcelona - Maccabi Fox",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Virtus Bologna - Zalgiris Kaunas",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Sassuolo - Juventus",
+    "turnuva": "İtalya Serie A",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-01-06"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "West Ham - Nottingham Forest",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports beIN Connect",
+    "tarih": "2026-01-06"
   }
 ]
