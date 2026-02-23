@@ -1,133 +1,5 @@
 [
   {
-    "spor": "Futbol",
-    "saat": "01:15",
-    "maç": "Velez Sarsfield - River Plate",
-    "turnuva": "Arjantin Primera Division",
-    "kanal": "Spor Smart",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "02:30",
-    "maç": "LA Lakers - Boston Celtics",
-    "turnuva": "NBA",
-    "kanal": "S Sport",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "13:30",
-    "maç": "Sarıyer - Adana Demirspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "Bein Sports Max 1",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "13:30",
-    "maç": "Sivasspor - Sakaryaspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Pendikspor - Keçiörengücü",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Harem Spor - Balıkesir BB",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "TED Ankara Kolejliler - Çankaya Üni.",
-    "turnuva": "Kadinlar Bölgesel Basketbol Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Gallardo - Başkent İz",
-    "turnuva": "Kadinlar Bölgesel Basketbol Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Edremit Bld. - Beşas Spor",
-    "turnuva": "Kadinlar Bölgesel Basketbol Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Fenerbahçe - Kasımpaşa",
-    "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Amedspor - Vanspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:30",
-    "maç": "Fiorentina - Pisa",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Al Qadsiah - Al Ettifaq",
-    "turnuva": "Suudi Arabistan Pro Lig",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Bologna - Udinese",
-    "turnuva": "İtalya Serie A",
-    "kanal": "S Sport 2",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Alaves - Girona",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-02-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Everton - Manchester Utd",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
-    "tarih": "2026-02-23"
-  },
-  {
     "spor": "Basketbol",
     "saat": "03:00",
     "maç": "Detroit Pistons - SA Spurs",
@@ -186,9 +58,17 @@
   {
     "spor": "Futbol",
     "saat": "23:00",
+    "maç": "Inter - Bodo Glimt",
+    "turnuva": "UEFA Şampiyonlar Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-24"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
     "maç": "Newcastle - Karabağ",
     "turnuva": "UEFA Şampiyonlar Ligi",
-    "kanal": "Sport TV",
+    "kanal": "İçtimai TV",
     "tarih": "2026-02-24"
   },
   {
@@ -196,15 +76,7 @@
     "saat": "23:00",
     "maç": "Bayer Leverkusen - Olympiakos",
     "turnuva": "UEFA Şampiyonlar Ligi",
-    "kanal": "tabii Spor",
-    "tarih": "2026-02-24"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Inter - Bodo Glimt",
-    "turnuva": "UEFA Şampiyonlar Ligi",
-    "kanal": "tabii Spor",
+    "kanal": "tabii Spor 1",
     "tarih": "2026-02-24"
   },
   {
@@ -234,15 +106,7 @@
   {
     "spor": "Futbol",
     "saat": "18:00",
-    "maç": "Zilina - Club Brugge",
-    "turnuva": "UEFA Gençlik Ligi",
-    "kanal": "UEFA.tv",
-    "tarih": "2026-02-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Real Madrid - Chelsea",
+    "maç": "Atletico Madrid - Maccabi Haifa",
     "turnuva": "UEFA Gençlik Ligi",
     "kanal": "UEFA.tv",
     "tarih": "2026-02-25"
@@ -258,7 +122,15 @@
   {
     "spor": "Futbol",
     "saat": "18:00",
-    "maç": "Atletico Madrid - Maccabi Haifa",
+    "maç": "Real Madrid - Chelsea",
+    "turnuva": "UEFA Gençlik Ligi",
+    "kanal": "TRT Spor",
+    "tarih": "2026-02-25"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:00",
+    "maç": "Zilina - Club Brugge",
     "turnuva": "UEFA Gençlik Ligi",
     "kanal": "UEFA.tv",
     "tarih": "2026-02-25"
@@ -312,19 +184,19 @@
     "tarih": "2026-02-25"
   },
   {
-    "spor": "Basketbol",
-    "saat": "22:00",
-    "maç": "Zaragoza - USK Prague",
-    "turnuva": "Euroleague Kadinlar",
-    "kanal": "EuroLeague Women Youtube",
-    "tarih": "2026-02-25"
-  },
-  {
     "spor": "Futbol",
     "saat": "22:00",
     "maç": "Al Najma - Al Nassr",
     "turnuva": "Suudi Arabistan Pro Lig",
     "kanal": "S Sport Plus",
+    "tarih": "2026-02-25"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Zaragoza - USK Prague",
+    "turnuva": "Euroleague Kadinlar",
+    "kanal": "EuroLeague Women Youtube",
     "tarih": "2026-02-25"
   },
   {
@@ -338,25 +210,17 @@
   {
     "spor": "Basketbol",
     "saat": "22:30",
-    "maç": "Kizilyildiz - Anadolu Efes",
+    "maç": "Virtus Bologna - Barcelona",
     "turnuva": "Euroleague",
-    "kanal": "S Sport",
+    "kanal": "Idman TV",
     "tarih": "2026-02-25"
   },
   {
     "spor": "Basketbol",
     "saat": "22:30",
-    "maç": "Virtus Bologna - Barcelona",
+    "maç": "Kizilyildiz - Anadolu Efes",
     "turnuva": "Euroleague",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-02-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "PSG - Monaco",
-    "turnuva": "UEFA Şampiyonlar Ligi",
-    "kanal": "tabii Spor",
+    "kanal": "S Sport",
     "tarih": "2026-02-25"
   },
   {
@@ -370,9 +234,225 @@
   {
     "spor": "Futbol",
     "saat": "23:00",
+    "maç": "PSG - Monaco",
+    "turnuva": "UEFA Şampiyonlar Ligi",
+    "kanal": "tabii Spor 1",
+    "tarih": "2026-02-25"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
     "maç": "Real Madrid - Benfica",
     "turnuva": "UEFA Şampiyonlar Ligi",
-    "kanal": "tabii Spor",
+    "kanal": "İçtimai TV",
     "tarih": "2026-02-25"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "03:30",
+    "maç": "OKC Thunder - Detroit Pistons",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "06:00",
+    "maç": "Denver Nuggets - Boston Celtics",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "19:00",
+    "maç": "Athinaikos - ESB Villeneuve",
+    "turnuva": "Eurocup Kadinlar Yarı Final",
+    "kanal": "FIBA TV",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Dubai Basket - Asvel Villeurbanne",
+    "turnuva": "Euroleague",
+    "kanal": "Idman TV",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Stuttgart - Celtic",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Viktoria Plzen - Panathinaikos",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Ferencvaros - Ludogorets",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Kizilyildiz - Lille",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Samsunspor - Shkendija",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "TRT 1",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Rijeka - Omonia",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "Fiorentina - Jagiellonia",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:45",
+    "maç": "NK Celje - FC Drita",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:30",
+    "maç": "Monaco - Maccabi Fox",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Lattes Montpellier - ÇBK Mersin",
+    "turnuva": "Eurocup Kadinlar Yarı Final",
+    "kanal": "TRT Spor Yildiz",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:05",
+    "maç": "Hapoel Tel Aviv - Olimpia Milano",
+    "turnuva": "Euroleague",
+    "kanal": "Idman TV",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:15",
+    "maç": "Panathinaikos - Paris",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Baskonia - Valencia Basket",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:45",
+    "maç": "Real Madrid - Bayern Münih",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Lech Poznan - KuPS",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "FC Lausanne - Sigma Olomouc",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Crystal Palace - Zrinjski",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "AZ Alkmaar - Noah",
+    "turnuva": "UEFA Avrupa Konferans Ligi Son 16",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Bologna - Brann",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Celta Vigo - PAOK",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Genk - Dinamo Zagreb",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "tabii Spor",
+    "tarih": "2026-02-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Nottingham Forest - Fenerbahçe",
+    "turnuva": "UEFA Avrupa Ligi",
+    "kanal": "TRT 1",
+    "tarih": "2026-02-26"
   }
 ]
