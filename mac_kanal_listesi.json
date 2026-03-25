@@ -1,163 +1,11 @@
 [
   {
-    "spor": "Basketbol",
-    "saat": "03:00",
-    "maç": "Cleveland Cavaliers - Orlando Magic",
-    "turnuva": "NBA",
-    "kanal": "S Sport",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "06:00",
-    "maç": "Phoenix Suns - Denver Nuggets",
-    "turnuva": "NBA",
-    "kanal": "S Sport",
-    "tarih": "2026-03-25"
-  },
-  {
     "spor": "Futbol",
-    "saat": "14:00",
-    "maç": "Menemenspor - Mardin 1969",
-    "turnuva": "TFF 2. Lig",
-    "kanal": "Bi Kanal",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:00",
-    "maç": "Fatsa Bld. - Düzcespor",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:00",
-    "maç": "Slovakya - Türkiye",
-    "turnuva": "UEFA U19 Avrupa Şampiyonasi Elemeleri",
-    "kanal": "Yayın Yok",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Batman Petrol - Şanlıurfaspor",
-    "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Denizli İdmanyurdu Güreller - Karşıyaka",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Bi Kanal",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Beyoğlu Yeni Çarşı - Muğlaspor",
-    "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Ayvalıkgücü Bld. - Kütahyaspor",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Yaay",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Çorluspor 1947 - Yıldırımspor",
-    "turnuva": "TFF 3. Lig",
-    "kanal": "Sıfır TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Ege Üni. - Watergarden HT",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Ankaragücü - Sincan Bld",
-    "turnuva": "TFF 2. Lig",
-    "kanal": "Sıfır TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:30",
-    "maç": "Etimesgut Bld. - Çorlu Bld.",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:30",
-    "maç": "ÇBK Mersin - Fenerbahçe Opet",
-    "turnuva": "Kadinlar Basketbol Süper Ligi Play-Off Yarı Final",
-    "kanal": "HT Spor",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Karatay Bld. - Kütahya Bld.",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Teşvikiye - Çiftlikköy Bld.",
-    "turnuva": "Basketbol 2. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:45",
-    "maç": "Real Madrid - Barcelona",
-    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi Çeyrek Final",
-    "kanal": "Disney Plus",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Dortmund Legends - Benfica Legends",
-    "turnuva": "Dostluk Maçi",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:30",
-    "maç": "Baskonia - Kizilyildiz",
-    "turnuva": "Euroleague",
-    "kanal": "S Sport",
-    "tarih": "2026-03-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "23:00",
-    "maç": "Manchester Utd - Bayern Münih",
-    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi Çeyrek Final",
-    "kanal": "Disney Plus",
-    "tarih": "2026-03-25"
+    "saat": "02:00",
+    "maç": "Lexington - Brooklyn",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2026-03-26"
   },
   {
     "spor": "Basketbol",
@@ -165,14 +13,6 @@
     "maç": "Detroit Pistons - Atlanta Hawks",
     "turnuva": "NBA",
     "kanal": "S Sport",
-    "tarih": "2026-03-26"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "02:00",
-    "maç": "Lexington - Brooklyn",
-    "turnuva": "ABD USL Championship",
-    "kanal": "USL Championship Youtube",
     "tarih": "2026-03-26"
   },
   {
@@ -224,6 +64,54 @@
     "tarih": "2026-03-26"
   },
   {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Maccabi Fox - Dubai Basket",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-03-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Slovakya - Kosova",
+    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
+    "kanal": "Exxen",
+    "tarih": "2026-03-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Polonya - Arnavutluk",
+    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
+    "kanal": "Exxen",
+    "tarih": "2026-03-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Ukrayna - İsveç",
+    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
+    "kanal": "İçtimai TV",
+    "tarih": "2026-03-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "İtalya - Kuzey İrlanda",
+    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
+    "kanal": "Exxen",
+    "tarih": "2026-03-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:45",
+    "maç": "Galler - Bosna Hersek",
+    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
+    "kanal": "Exxen",
+    "tarih": "2026-03-26"
+  },
+  {
     "spor": "Futbol",
     "saat": "22:45",
     "maç": "Danimarka - Kuzey Makedonya",
@@ -240,59 +128,11 @@
     "tarih": "2026-03-26"
   },
   {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Galler - Bosna Hersek",
-    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
-    "kanal": "Exxen",
-    "tarih": "2026-03-26"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "İtalya - Kuzey İrlanda",
-    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
-    "kanal": "Exxen",
-    "tarih": "2026-03-26"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Polonya - Arnavutluk",
-    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
-    "kanal": "Exxen",
-    "tarih": "2026-03-26"
-  },
-  {
     "spor": "Basketbol",
     "saat": "22:45",
     "maç": "Real Madrid - Anadolu Efes",
     "turnuva": "Euroleague",
     "kanal": "S Sport",
-    "tarih": "2026-03-26"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Slovakya - Kosova",
-    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
-    "kanal": "Exxen",
-    "tarih": "2026-03-26"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:45",
-    "maç": "Ukrayna - İsveç",
-    "turnuva": "2026 Dünya Kupasi Eleme Yarı Final",
-    "kanal": "İçtimai TV",
-    "tarih": "2026-03-26"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "22:45",
-    "maç": "Maccabi Fox - Dubai Basket",
-    "turnuva": "Euroleague",
-    "kanal": "S Sport Plus",
     "tarih": "2026-03-26"
   },
   {
@@ -354,7 +194,7 @@
   {
     "spor": "Basketbol",
     "saat": "18:00",
-    "maç": "Manisa BB - Beşiktaş",
+    "maç": "Trabzonspor - Bahçeşehir Klj",
     "turnuva": "Basketbol Süper Ligi",
     "kanal": "Bein Sports 5",
     "tarih": "2026-03-27"
@@ -362,7 +202,7 @@
   {
     "spor": "Basketbol",
     "saat": "18:00",
-    "maç": "Trabzonspor - Bahçeşehir Klj",
+    "maç": "Manisa BB - Beşiktaş",
     "turnuva": "Basketbol Süper Ligi",
     "kanal": "Bein Sports 5",
     "tarih": "2026-03-27"
@@ -422,5 +262,237 @@
     "turnuva": "Hazirlik Maçi",
     "kanal": "S Sport Plus",
     "tarih": "2026-03-27"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "02:10",
+    "maç": "Duke - St.Johns",
+    "turnuva": "NCAA",
+    "kanal": "S Sport",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "02:35",
+    "maç": "Michigan Wolverines - Alabama",
+    "turnuva": "NCAA",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "04:45",
+    "maç": "Uconn - Michigan State",
+    "turnuva": "NCAA",
+    "kanal": "S Sport",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "05:10",
+    "maç": "Iowa State - Tennessee",
+    "turnuva": "NCAA",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Beşiktaş - Galatasaray",
+    "turnuva": "Turkcell Kadinlar Futbol Ligi",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:00",
+    "maç": "Fenerbahçe - Amedspor",
+    "turnuva": "Turkcell Kadinlar Futbol Ligi",
+    "kanal": "FB TV",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:00",
+    "maç": "Esenler Erokspor - Galatasaray MCT Technic",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:00",
+    "maç": "Fenerbahçe Gelişim - Turgutlu Bld.",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Türkiye - Macaristan",
+    "turnuva": "UEFA U19 Avrupa Şampiyonasi Elemeleri",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:00",
+    "maç": "Darüşşafaka - Fenerbahçe Koleji",
+    "turnuva": "Basketbol 1. Ligi",
+    "kanal": "HT Spor",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "14:45",
+    "maç": "TED Kolejliler - OGM Orman",
+    "turnuva": "Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "15:30",
+    "maç": "Merkezefendi Bld. - Petkimspor",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "Samsun Basket - İstanbul Gençlik",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "Watergarden HT - Ege Üni.",
+    "turnuva": "Basketbol 2. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Manchester Utd - Manchester City",
+    "turnuva": "İngiltere Kadinlar Süper Ligi",
+    "kanal": "W-Sport",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:30",
+    "maç": "iLab Basketbol - Bandırma Bordo",
+    "turnuva": "Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:00",
+    "maç": "Kütahya Bld. - Karatay Bld.",
+    "turnuva": "Basketbol 2. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:00",
+    "maç": "Edirne DSİ - Kırklareli Bld.",
+    "turnuva": "Kadinlar Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:30",
+    "maç": "Çorlu Bld. - Etimesgut Bld.",
+    "turnuva": "Basketbol 2. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:15",
+    "maç": "Balıkesir BB - Pizzabulls Cedi Osman",
+    "turnuva": "Basketbol 1. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Çiftlikköy Bld. - Teşvikiye",
+    "turnuva": "Basketbol 2. Ligi",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Macaristan - Slovenya",
+    "turnuva": "Hazirlik Maçi",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:30",
+    "maç": "Arsenal - Tottenham",
+    "turnuva": "İngiltere Kadinlar Süper Ligi",
+    "kanal": "W-Sport",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:30",
+    "maç": "Malaga - Leganes",
+    "turnuva": "İspanya La Liga 2",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "New Mexico - Colorado Springs",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Milwaukee Bucks - SA Spurs",
+    "turnuva": "NBA",
+    "kanal": "Prime Video",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Sporting Gijon - La Coruna",
+    "turnuva": "İspanya La Liga 2",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "23:00",
+    "maç": "Detroit - Charleston",
+    "turnuva": "ABD USL Championship",
+    "kanal": "USL Championship Youtube",
+    "tarih": "2026-03-28"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "23:00",
+    "maç": "Basquet Girona - Real Madrid",
+    "turnuva": "İspanya Basketbol Ligi",
+    "kanal": "Spor Smart",
+    "tarih": "2026-03-28"
   }
 ]
