@@ -1,70 +1,6 @@
 [
   {
     "spor": "Basketbol",
-    "saat": "00:05",
-    "maç": "Duke - Uconn",
-    "turnuva": "NCAA Çeyrek Final",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "02:00",
-    "maç": "NO Pelicans - Houston Rockets",
-    "turnuva": "NBA",
-    "kanal": "S Sport",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "11:15",
-    "maç": "Vincenzo Montella",
-    "turnuva": "Basin Toplantisi",
-    "kanal": "A Spor",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:00",
-    "maç": "Kosova - Türkiye",
-    "turnuva": "UEFA U19 Avrupa Şampiyonasi Elemeleri",
-    "kanal": "TRT Spor",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Bodrum Basket - Emlak Konut Gelişim",
-    "turnuva": "Kadinlar Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:15",
-    "maç": "Milli Takım",
-    "turnuva": "Antrenman",
-    "kanal": "A Spor",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:30",
-    "maç": "Harem Spor - Ankaragücü",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Panathinaikos - Olympiakos",
-    "turnuva": "Yunanistan Basketbol Ligi",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-03-30"
-  },
-  {
-    "spor": "Basketbol",
     "saat": "02:00",
     "maç": "Miami Heat - Philadelphia 76ers",
     "turnuva": "NBA",
@@ -84,7 +20,7 @@
     "saat": "18:30",
     "maç": "Hırvatistan - Türkiye",
     "turnuva": "UEFA U21 Avrupa Şampiyonasi Elemeleri",
-    "kanal": "Yayın Yok",
+    "kanal": "Tivibu Spor",
     "tarih": "2026-03-31"
   },
   {
@@ -238,5 +174,109 @@
     "turnuva": "İspanya La Liga 2",
     "kanal": "S Sport",
     "tarih": "2026-04-01"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "02:30",
+    "maç": "Miami Heat - Boston Celtics",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "05:00",
+    "maç": "GS Warriors - SA Spurs",
+    "turnuva": "NBA",
+    "kanal": "S Sport",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "10:00",
+    "maç": "İstanbul",
+    "turnuva": "Parlamentolar Arasi Futbol Turnuvasi",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "Athinaikos - ÇBK Mersin",
+    "turnuva": "Eurocup Kadinlar Final",
+    "kanal": "FIBA TV",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:45",
+    "maç": "Barcelona - Real Madrid",
+    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi Çeyrek Final",
+    "kanal": "Disney Plus",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Las Palmas - Granada",
+    "turnuva": "İspanya La Liga 2",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Zalgiris Kaunas - Barcelona",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Hapoel Tel Aviv - Panathinaikos",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport 2",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:00",
+    "maç": "Dubai Basket - Monaco",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:00",
+    "maç": "Kizilyildiz - Partizan",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:45",
+    "maç": "Paris - Olimpia Milano",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:00",
+    "maç": "Maccabi Fox - Anadolu Efes",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport",
+    "tarih": "2026-04-02"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Lyon - Wolfsburg",
+    "turnuva": "UEFA Kadinlar Şampiyonlar Ligi Çeyrek Final",
+    "kanal": "Disney Plus",
+    "tarih": "2026-04-02"
   }
 ]
