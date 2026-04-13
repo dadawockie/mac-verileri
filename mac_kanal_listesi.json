@@ -1,179 +1,43 @@
 [
   {
     "spor": "Futbol",
-    "saat": "00:00",
-    "maç": "Birmingham Legion - Pittsburgh RH",
-    "turnuva": "ABD USL Championship",
-    "kanal": "USL Championship Youtube",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
     "saat": "01:00",
-    "maç": "New York Knicks - Charlotte Hornets",
-    "turnuva": "NBA",
-    "kanal": "S Sport",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "03:30",
-    "maç": "LA Clippers - GS Warriors",
-    "turnuva": "NBA",
-    "kanal": "S Sport",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "13:00",
-    "maç": "LNZ Cherkasy - Shakhtar Donetsk",
-    "turnuva": "Ukrayna Premier Ligi",
-    "kanal": "Maçkolik Mobil App",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "16:00",
-    "maç": "Sivasspor - İstanbulspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "Bein Sports Max 1",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "OGM Orman - Kahramanmaraş İstiklal",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "17:00",
-    "maç": "Pizzabulls Cedi Osman - Göztepe",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "HT Spor",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
-    "maç": "Erzurumspor - Boluspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:45",
-    "maç": "Al Ahli - Al Duhail",
-    "turnuva": "AFC Şampiyonlar Ligi",
+    "maç": "Lanus - Banfield",
+    "turnuva": "Arjantin Primera Division",
     "kanal": "Spor Smart",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "18:00",
-    "maç": "Fenerbahçe Koleji - Balıkesir BB",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Anadolu Efes - Fenerbahçe Beko",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Kağıtspor - Darüşşafaka",
-    "turnuva": "Basketbol 1. Ligi",
-    "kanal": "TBF TV Youtube",
-    "tarih": "2026-04-13"
+    "tarih": "2026-04-14"
   },
   {
     "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Sakaryaspor - Esenler Erokspor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "Bein Sports Max 2",
-    "tarih": "2026-04-13"
+    "saat": "11:30",
+    "maç": "Paraguay - Özbekistan",
+    "turnuva": "UEFA Kadinlar U18 Dostluk Kupasi",
+    "kanal": "TFF Youtube",
+    "tarih": "2026-04-14"
   },
   {
     "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Eyüpspor - Samsunspor",
-    "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 1",
-    "tarih": "2026-04-13"
+    "saat": "11:30",
+    "maç": "Türkiye - Fas",
+    "turnuva": "UEFA Kadinlar U18 Dostluk Kupasi",
+    "kanal": "TFF Youtube",
+    "tarih": "2026-04-14"
   },
   {
     "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Amedspor - Ümraniyespor",
-    "turnuva": "Trendyol 1. Lig",
-    "kanal": "TRT Spor",
-    "tarih": "2026-04-13"
+    "saat": "16:30",
+    "maç": "Uruguay - Kosta Rika",
+    "turnuva": "UEFA Kadinlar U18 Dostluk Kupasi",
+    "kanal": "TFF Youtube",
+    "tarih": "2026-04-14"
   },
   {
     "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Ç.Rizespor - Gaziantep FK",
-    "turnuva": "Trendyol Süper Lig",
-    "kanal": "Bein Sports 2",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Al Hilal - Al Sadd",
-    "turnuva": "AFC Şampiyonlar Ligi",
-    "kanal": "Spor Smart",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:30",
-    "maç": "Valladolid - Eibar",
-    "turnuva": "İspanya La Liga 2",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Fiorentina - Lazio",
-    "turnuva": "İtalya Serie A",
-    "kanal": "Tivibu Spor 1",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Rodez - Troyes",
-    "turnuva": "Fransa Ligue 2",
-    "kanal": "Bein Sports 4",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Manchester Utd - Leeds United",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports 3",
-    "tarih": "2026-04-13"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "Levante - Getafe",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-04-13"
+    "saat": "16:30",
+    "maç": "Etiyopya - Norveç",
+    "turnuva": "UEFA Kadinlar U18 Dostluk Kupasi",
+    "kanal": "TFF Youtube",
+    "tarih": "2026-04-14"
   },
   {
     "spor": "Futbol",
@@ -186,17 +50,17 @@
   {
     "spor": "Futbol",
     "saat": "20:00",
-    "maç": "İsviçre - Türkiye",
+    "maç": "Andorra - Azerbaycan",
     "turnuva": "FiFA Kadinlar Dünya Kupasi Elemeleri",
-    "kanal": "TRT Spor Yildiz",
+    "kanal": "Idman TV",
     "tarih": "2026-04-14"
   },
   {
     "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Al Ittihad - Al Wahda",
-    "turnuva": "AFC Şampiyonlar Ligi",
-    "kanal": "Spor Smart",
+    "saat": "20:00",
+    "maç": "İsviçre - Türkiye",
+    "turnuva": "FiFA Kadinlar Dünya Kupasi Elemeleri",
+    "kanal": "Tivibu Spor",
     "tarih": "2026-04-14"
   },
   {
@@ -209,10 +73,18 @@
   },
   {
     "spor": "Futbol",
+    "saat": "21:00",
+    "maç": "Al Ittihad - Al Wahda",
+    "turnuva": "AFC Şampiyonlar Ligi",
+    "kanal": "Spor Smart",
+    "tarih": "2026-04-14"
+  },
+  {
+    "spor": "Futbol",
     "saat": "22:00",
     "maç": "Liverpool - PSG",
     "turnuva": "UEFA Şampiyonlar Ligi Çeyrek Final",
-    "kanal": "tabii Spor",
+    "kanal": "İçtimai TV",
     "tarih": "2026-04-14"
   },
   {
@@ -222,6 +94,22 @@
     "turnuva": "UEFA Şampiyonlar Ligi Çeyrek Final",
     "kanal": "tabii Spor",
     "tarih": "2026-04-14"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "02:30",
+    "maç": "Charlotte Hornets - Miami Heat",
+    "turnuva": "NBA Play-Inn",
+    "kanal": "Prime Video",
+    "tarih": "2026-04-15"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "05:00",
+    "maç": "Phoenix Suns - Portland TB",
+    "turnuva": "NBA Play-Inn",
+    "kanal": "Prime Video",
+    "tarih": "2026-04-15"
   },
   {
     "spor": "Futbol",
@@ -268,7 +156,7 @@
     "saat": "21:30",
     "maç": "Basket Landes - Zaragoza",
     "turnuva": "Euroleague Kadinlar Çeyrek Final",
-    "kanal": "EuroLeague Women Youtube",
+    "kanal": "TRT Spor Yildiz",
     "tarih": "2026-04-15"
   },
   {
@@ -276,7 +164,7 @@
     "saat": "22:00",
     "maç": "Iberostar Tenerife - Galatasaray MCT Technic",
     "turnuva": "FIBA Şampiyonlar Ligi Yarı Final",
-    "kanal": "TRT Spor Yildiz",
+    "kanal": "TRT Spor",
     "tarih": "2026-04-15"
   },
   {
@@ -284,7 +172,7 @@
     "saat": "22:00",
     "maç": "Bayern Münih - Real Madrid",
     "turnuva": "UEFA Şampiyonlar Ligi Çeyrek Final",
-    "kanal": "tabii Spor",
+    "kanal": "İçtimai TV",
     "tarih": "2026-04-15"
   },
   {
@@ -292,7 +180,127 @@
     "saat": "22:00",
     "maç": "Arsenal - Sporting Lisbon",
     "turnuva": "UEFA Şampiyonlar Ligi Çeyrek Final",
-    "kanal": "tabii Spor",
+    "kanal": "tabii Spor 1",
     "tarih": "2026-04-15"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "02:30",
+    "maç": "Philadelphia 76ers - Orlando Magic",
+    "turnuva": "NBA Play-Inn",
+    "kanal": "Prime Video",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "05:00",
+    "maç": "LA Clippers - GS Warriors",
+    "turnuva": "NBA Play-Inn",
+    "kanal": "Prime Video",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:00",
+    "maç": "Asvel Villeurbanne - Fenerbahçe Beko",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:05",
+    "maç": "Maccabi Fox - Virtus Bologna",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:15",
+    "maç": "Olympiakos - Olimpia Milano",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:30",
+    "maç": "Partizan - Baskonia",
+    "turnuva": "Euroleague",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "21:45",
+    "maç": "Real Madrid - Kizilyildiz",
+    "turnuva": "Euroleague",
+    "kanal": "Idman TV",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Strasbourg - Mainz",
+    "turnuva": "UEFA Avrupa Konferans Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Fiorentina - Crystal Palace",
+    "turnuva": "UEFA Avrupa Konferans Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "AZ Alkmaar - Shakhtar Donetsk",
+    "turnuva": "UEFA Avrupa Konferans Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "AEK - Rayo Vallecano",
+    "turnuva": "UEFA Avrupa Konferans Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Nottingham Forest - Porto",
+    "turnuva": "UEFA Avrupa Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Celta Vigo - Freiburg",
+    "turnuva": "UEFA Avrupa Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Real Betis - Braga",
+    "turnuva": "UEFA Avrupa Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Aston Villa - Bologna",
+    "turnuva": "UEFA Avrupa Ligi Çeyrek Final",
+    "kanal": "tabii Spor",
+    "tarih": "2026-04-16"
   }
 ]
