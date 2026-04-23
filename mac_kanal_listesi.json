@@ -1,147 +1,11 @@
 [
   {
-    "spor": "Futbol",
-    "saat": "02:30",
-    "maç": "Rhode Island - Charleston",
-    "turnuva": "ABD USL Championship",
-    "kanal": "USL Championship Youtube",
-    "tarih": "2026-04-23"
-  },
-  {
     "spor": "Basketbol",
-    "saat": "04:30",
-    "maç": "OKC Thunder - Phoenix Suns",
+    "saat": "02:00",
+    "maç": "Atlanta Hawks - New York Knicks",
     "turnuva": "NBA Play-Off",
-    "kanal": "S Sport",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "05:00",
-    "maç": "Oakland Roots - Las Vegas Lights",
-    "turnuva": "ABD USL Championship",
-    "kanal": "USL Championship Youtube",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:00",
-    "maç": "Etimesgut Bld. - Küçükçekmece Sinop",
-    "turnuva": "TFF 3. Lig Play-Off",
-    "kanal": "Tivibu Spor 4",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:00",
-    "maç": "Mazıdağı Fosfat - Erciyes 38 FK",
-    "turnuva": "TFF 3. Lig Play-Off",
-    "kanal": "Tivibu Spor",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "15:30",
-    "maç": "Zorya - Shakhtar Donetsk",
-    "turnuva": "Ukrayna Premier Ligi",
-    "kanal": "Maçkolik Mobil App",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "17:00",
-    "maç": "Yıldırımspor - Çorluspor 1947",
-    "turnuva": "TFF 3. Lig Play-Off",
-    "kanal": "Tivibu Spor 3",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "18:45",
-    "maç": "Samsunspor - Trabzonspor",
-    "turnuva": "Ziraat Türkiye Kupasi ZTK Çeyrek Final",
-    "kanal": "A Spor",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "19:00",
-    "maç": "Merkezefendi Bld. - Galatasaray MCT Technic",
-    "turnuva": "Basketbol Süper Ligi",
-    "kanal": "Bein Sports 5",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "19:45",
-    "maç": "GA Eagles - AZ Alkmaar",
-    "turnuva": "Hollanda Eredivisie",
-    "kanal": "Tivibu Spor 1",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Yeşilyurt Bld. - Silifke Bld.",
-    "turnuva": "TFF 3. Lig Play-Off",
-    "kanal": "Tivibu Spor",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:00",
-    "maç": "Levante - Sevilla",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "20:45",
-    "maç": "Beşiktaş - Alanyaspor",
-    "turnuva": "Ziraat Türkiye Kupasi ZTK Çeyrek Final",
-    "kanal": "ATV",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Al Hilal - Al Kholood",
-    "turnuva": "Suudi Arabistan Sampiyonlar Kupasi Final",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:00",
-    "maç": "Rayo Vallecano - Espanyol",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport Plus",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "21:45",
-    "maç": "Stuttgart - Freiburg",
-    "turnuva": "Almanya Kupasi DFB Pokal Yarı Final",
-    "kanal": "Sıfır TV",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:00",
-    "maç": "PSV - Zwolle",
-    "turnuva": "Hollanda Eredivisie",
-    "kanal": "Tivibu Spor 1",
-    "tarih": "2026-04-23"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "22:30",
-    "maç": "Real Oviedo - Villarreal",
-    "turnuva": "İspanya La Liga",
-    "kanal": "S Sport",
-    "tarih": "2026-04-23"
+    "kanal": "Prime Video",
+    "tarih": "2026-04-24"
   },
   {
     "spor": "Futbol",
@@ -149,14 +13,6 @@
     "maç": "Defensa - Boca Juniors",
     "turnuva": "Arjantin Primera Division",
     "kanal": "Spor Smart",
-    "tarih": "2026-04-24"
-  },
-  {
-    "spor": "Basketbol",
-    "saat": "02:00",
-    "maç": "Atlanta Hawks - New York Knicks",
-    "turnuva": "NBA Play-Off",
-    "kanal": "Prime Video",
     "tarih": "2026-04-24"
   },
   {
@@ -268,7 +124,7 @@
     "saat": "21:45",
     "maç": "Brest - Lens",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2026-04-24"
   },
   {
@@ -292,7 +148,7 @@
     "saat": "22:00",
     "maç": "Sunderland - Nottingham Forest",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-04-24"
   },
   {
@@ -324,7 +180,7 @@
     "saat": "13:30",
     "maç": "Serik Bld. - Hatayspor",
     "turnuva": "Trendyol 1. Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports Max 2",
     "tarih": "2026-04-25"
   },
   {
@@ -338,17 +194,9 @@
   {
     "spor": "Futbol",
     "saat": "14:00",
-    "maç": "Brighton - Manchester City",
-    "turnuva": "İngiltere Kadinlar Süper Ligi",
-    "kanal": "W-Sport",
-    "tarih": "2026-04-25"
-  },
-  {
-    "spor": "Futbol",
-    "saat": "14:00",
-    "maç": "Preussen Münster - Arminia Bielefeld",
+    "maç": "Hertha Berlin - Holstein Kiel",
     "turnuva": "Almanya Bundesliga 2",
-    "kanal": "Tivibu Spor 4",
+    "kanal": "Tivibu Spor 3",
     "tarih": "2026-04-25"
   },
   {
@@ -362,17 +210,17 @@
   {
     "spor": "Futbol",
     "saat": "14:00",
-    "maç": "Hertha Berlin - Holstein Kiel",
+    "maç": "Preussen Münster - Arminia Bielefeld",
     "turnuva": "Almanya Bundesliga 2",
-    "kanal": "Tivibu Spor 3",
+    "kanal": "Tivibu Spor 4",
     "tarih": "2026-04-25"
   },
   {
     "spor": "Futbol",
-    "saat": "14:30",
-    "maç": "Fulham - Aston Villa",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Idman TV",
+    "saat": "14:00",
+    "maç": "Brighton - Manchester City",
+    "turnuva": "İngiltere Kadinlar Süper Ligi",
+    "kanal": "W-Sport",
     "tarih": "2026-04-25"
   },
   {
@@ -381,6 +229,14 @@
     "maç": "Eyüpspor - Gaziantep FK",
     "turnuva": "Trendyol Süper Lig",
     "kanal": "Bein Sports 1",
+    "tarih": "2026-04-25"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:30",
+    "maç": "Fulham - Aston Villa",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-04-25"
   },
   {
@@ -409,6 +265,14 @@
   },
   {
     "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Reims - Nancy",
+    "turnuva": "Fransa Ligue 2",
+    "kanal": "Bein Sports 4",
+    "tarih": "2026-04-25"
+  },
+  {
+    "spor": "Futbol",
     "saat": "16:00",
     "maç": "Parma - Pisa",
     "turnuva": "İtalya Serie A",
@@ -416,27 +280,19 @@
     "tarih": "2026-04-25"
   },
   {
-    "spor": "Basketbol",
-    "saat": "16:00",
-    "maç": "TED Kolejliler - Pizzabulls Cedi Osman",
-    "turnuva": "Basketbol 1. Ligi Play-Off",
-    "kanal": "HT Spor",
-    "tarih": "2026-04-25"
-  },
-  {
     "spor": "Futbol",
     "saat": "16:00",
     "maç": "Lyon - Auxerre",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports Max 2",
     "tarih": "2026-04-25"
   },
   {
     "spor": "Futbol",
     "saat": "16:00",
-    "maç": "Milan - Napoli",
-    "turnuva": "İtalya Kadinlar Serie A",
-    "kanal": "W-Sport",
+    "maç": "Adana Demirspor - Ümraniyespor",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
     "tarih": "2026-04-25"
   },
   {
@@ -450,17 +306,17 @@
   {
     "spor": "Futbol",
     "saat": "16:00",
-    "maç": "Adana Demirspor - Ümraniyespor",
-    "turnuva": "Trendyol 1. Lig Konferans Yayın",
-    "kanal": "TRT Spor",
+    "maç": "Milan - Napoli",
+    "turnuva": "İtalya Kadinlar Serie A",
+    "kanal": "W-Sport",
     "tarih": "2026-04-25"
   },
   {
-    "spor": "Futbol",
-    "saat": "16:30",
-    "maç": "Heidenheim - St.Pauli",
-    "turnuva": "Almanya Bundesliga",
-    "kanal": "Yayın Yok",
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "TED Kolejliler - Pizzabulls Cedi Osman",
+    "turnuva": "Basketbol 1. Ligi Play-Off",
+    "kanal": "HT Spor",
     "tarih": "2026-04-25"
   },
   {
@@ -477,6 +333,14 @@
     "maç": "Köln - Bayer Leverkusen",
     "turnuva": "Almanya Bundesliga",
     "kanal": "Tivibu Spor 3",
+    "tarih": "2026-04-25"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Heidenheim - St.Pauli",
+    "turnuva": "Almanya Bundesliga",
+    "kanal": "Yayın Yok",
     "tarih": "2026-04-25"
   },
   {
@@ -508,7 +372,7 @@
     "saat": "17:00",
     "maç": "Liverpool - Crystal Palace",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Idman TV",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-04-25"
   },
   {
@@ -516,7 +380,7 @@
     "saat": "17:00",
     "maç": "West Ham - Everton",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports Max 1",
     "tarih": "2026-04-25"
   },
   {
@@ -524,7 +388,7 @@
     "saat": "17:00",
     "maç": "Wolverhampton - Tottenham",
     "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2026-04-25"
   },
   {
@@ -570,7 +434,7 @@
   {
     "spor": "Futbol",
     "saat": "18:00",
-    "maç": "Bayern Münih - Barcelona",
+    "maç": "Arsenal - Lyon",
     "turnuva": "UEFA Kadinlar Şampiyonlar Ligi Yarı Final",
     "kanal": "Disney Plus",
     "tarih": "2026-04-25"
@@ -578,7 +442,7 @@
   {
     "spor": "Futbol",
     "saat": "18:00",
-    "maç": "Arsenal - Lyon",
+    "maç": "Bayern Münih - Barcelona",
     "turnuva": "UEFA Kadinlar Şampiyonlar Ligi Yarı Final",
     "kanal": "Disney Plus",
     "tarih": "2026-04-25"
@@ -592,19 +456,19 @@
     "tarih": "2026-04-25"
   },
   {
-    "spor": "Futbol",
-    "saat": "18:00",
-    "maç": "Final",
-    "turnuva": "Ampute Avrupa Ligi",
-    "kanal": "TRT Spor",
-    "tarih": "2026-04-25"
-  },
-  {
     "spor": "Basketbol",
     "saat": "18:00",
     "maç": "Turgutlu Bld. - Yalova VIP",
     "turnuva": "Kadinlar Basketbol 1. Ligi Play-Off",
     "kanal": "TBF TV Youtube",
+    "tarih": "2026-04-25"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:00",
+    "maç": "Final",
+    "turnuva": "Ampute Avrupa Ligi",
+    "kanal": "TRT Spor",
     "tarih": "2026-04-25"
   },
   {
@@ -626,17 +490,17 @@
   {
     "spor": "Futbol",
     "saat": "19:30",
-    "maç": "Arsenal - Newcastle",
-    "turnuva": "İngiltere Premier Lig",
-    "kanal": "Bein Sports beIN Connect",
+    "maç": "Hamburg - Hoffenheim",
+    "turnuva": "Almanya Bundesliga",
+    "kanal": "Tivibu Spor 2",
     "tarih": "2026-04-25"
   },
   {
     "spor": "Futbol",
     "saat": "19:30",
-    "maç": "Hamburg - Hoffenheim",
-    "turnuva": "Almanya Bundesliga",
-    "kanal": "Tivibu Spor 2",
+    "maç": "Arsenal - Newcastle",
+    "turnuva": "İngiltere Premier Lig",
+    "kanal": "Bein Sports 3",
     "tarih": "2026-04-25"
   },
   {
@@ -668,7 +532,7 @@
     "saat": "20:00",
     "maç": "Angers - PSG",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2026-04-25"
   },
   {
@@ -685,6 +549,14 @@
     "maç": "NAC Breda - Ajax",
     "turnuva": "Hollanda Eredivisie",
     "kanal": "Tivibu Spor 3",
+    "tarih": "2026-04-25"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:00",
+    "maç": "St. Etienne - Troyes",
+    "turnuva": "Fransa Ligue 2",
+    "kanal": "Bein Sports 2",
     "tarih": "2026-04-25"
   },
   {
@@ -716,7 +588,383 @@
     "saat": "22:05",
     "maç": "Toulouse - Monaco",
     "turnuva": "Fransa Ligue 1",
-    "kanal": "Bein Sports beIN Connect",
+    "kanal": "Bein Sports 4",
     "tarih": "2026-04-25"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "01:00",
+    "maç": "Atlanta Hawks - New York Knicks",
+    "turnuva": "NBA Play-Off",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "03:30",
+    "maç": "Minnesota TW - Denver Nuggets",
+    "turnuva": "NBA Play-Off",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:00",
+    "maç": "Karşıyaka - Esenler Erokspor",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "13:15",
+    "maç": "Baskonia - Barcelona",
+    "turnuva": "İspanya Basketbol Ligi",
+    "kanal": "Spor Smart",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "13:30",
+    "maç": "Fiorentina - Sassuolo",
+    "turnuva": "İtalya Serie A",
+    "kanal": "Tivibu Spor 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:00",
+    "maç": "Tottenham - Manchester Utd",
+    "turnuva": "İngiltere Kadinlar Süper Ligi",
+    "kanal": "W-Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:30",
+    "maç": "Gençlerbirliği - Kocaelispor",
+    "turnuva": "Trendyol Süper Lig",
+    "kanal": "Bein Sports 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:30",
+    "maç": "Bochum - Greuther Fürth",
+    "turnuva": "Almanya Bundesliga 2",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:30",
+    "maç": "Nürnberg - Magdeburg",
+    "turnuva": "Almanya Bundesliga 2",
+    "kanal": "Yayın Yok",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "14:30",
+    "maç": "Paderborn - Schalke 04",
+    "turnuva": "Almanya Bundesliga 2",
+    "kanal": "Tivibu Spor 2",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Rayo Vallecano - Real Sociedad",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Galatasaray - Fenerbahçe",
+    "turnuva": "TFF Elit U19 Ligi",
+    "kanal": "Galatasaray Youtube",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "15:00",
+    "maç": "Shamakhi - Kapaz",
+    "turnuva": "Azerbaycan Premier Ligi",
+    "kanal": "CBC Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "15:30",
+    "maç": "Trabzonspor - Galatasaray MCT Technic",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Genoa - Como",
+    "turnuva": "İtalya Serie A",
+    "kanal": "Tivibu Spor 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Lorient - Strasbourg",
+    "turnuva": "Fransa Ligue 1",
+    "kanal": "Bein Sports beIN Connect",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Keçiörengücü - Manisa FK",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Sarıyer - Esenler Erokspor",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Sivasspor - Iğdırspor",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Pendikspor - Boluspor",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Erzurumspor - Bandırmaspor",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Sakaryaspor - Çorum FK",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Amedspor - Bodrumspor",
+    "turnuva": "Trendyol 1. Lig Konferans Yayın",
+    "kanal": "TRT Spor",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "16:00",
+    "maç": "Kırklareli Bld. - Burhaniye Bld.",
+    "turnuva": "Kadinlar Basketbol 1. Ligi Play-Off",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:00",
+    "maç": "Liverpool - West Ham",
+    "turnuva": "İngiltere Kadinlar Süper Ligi",
+    "kanal": "W-Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "16:30",
+    "maç": "Stuttgart - Werder Bremen",
+    "turnuva": "Almanya Bundesliga",
+    "kanal": "Tivibu Spor 2",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "17:00",
+    "maç": "Venezia - Olimpia Milano",
+    "turnuva": "İtalya Basketbol Ligi",
+    "kanal": "Euroleague TV",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "17:15",
+    "maç": "Real Oviedo - Elche",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "Bursaspor - Büyükçekmece",
+    "turnuva": "Basketbol Süper Ligi",
+    "kanal": "Bein Sports 5",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:00",
+    "maç": "Neftçi Bakü - Karabağ",
+    "turnuva": "Azerbaycan Premier Ligi",
+    "kanal": "Idman TV",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "18:00",
+    "maç": "İstanbul Gençlik - Emlak Konut Gelişim",
+    "turnuva": "Kadinlar Basketbol 1. Ligi Play-Off",
+    "kanal": "TBF TV Youtube",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:15",
+    "maç": "Le Havre - Metz",
+    "turnuva": "Fransa Ligue 1",
+    "kanal": "Bein Sports Max 2",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:15",
+    "maç": "Paris FC - Lille",
+    "turnuva": "Fransa Ligue 1",
+    "kanal": "Bein Sports 4",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:15",
+    "maç": "Rennes - Nantes",
+    "turnuva": "Fransa Ligue 1",
+    "kanal": "Bein Sports Max 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:30",
+    "maç": "B.Dortmund - Freiburg",
+    "turnuva": "Almanya Bundesliga",
+    "kanal": "Tivibu Spor 3",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "18:30",
+    "maç": "Hibernian - Hearts",
+    "turnuva": "İskoçya Premier Lig",
+    "kanal": "S Sport Plus",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Torino - Inter",
+    "turnuva": "İtalya Serie A",
+    "kanal": "Tivibu Spor 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:00",
+    "maç": "Ternana - Fiorentina",
+    "turnuva": "İtalya Kadinlar Serie A",
+    "kanal": "W-Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "19:30",
+    "maç": "Osasuna - Sevilla",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Galatasaray - Fenerbahçe",
+    "turnuva": "Trendyol Süper Lig",
+    "kanal": "Bein Sports 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "20:00",
+    "maç": "Valencia Basket - Real Madrid",
+    "turnuva": "İspanya Basketbol Ligi",
+    "kanal": "Spor Smart",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "20:00",
+    "maç": "Estrela - Porto",
+    "turnuva": "Portekiz Liga NOS",
+    "kanal": "Tivibu Spor 4",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Milan - Juventus",
+    "turnuva": "İtalya Serie A",
+    "kanal": "Tivibu Spor 1",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "21:45",
+    "maç": "Marsilya - Nice",
+    "turnuva": "Fransa Ligue 1",
+    "kanal": "Bein Sports 4",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:00",
+    "maç": "Villarreal - Celta Vigo",
+    "turnuva": "İspanya La Liga",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Basketbol",
+    "saat": "22:30",
+    "maç": "Portland TB - SA Spurs",
+    "turnuva": "NBA Play-Off",
+    "kanal": "S Sport",
+    "tarih": "2026-04-26"
+  },
+  {
+    "spor": "Futbol",
+    "saat": "22:30",
+    "maç": "AVS - Sporting Lisbon",
+    "turnuva": "Portekiz Liga NOS",
+    "kanal": "Tivibu Spor 4",
+    "tarih": "2026-04-26"
   }
 ]
